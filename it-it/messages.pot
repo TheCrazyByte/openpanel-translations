@@ -1,5 +1,5 @@
-# Translations template for PROJECT.
-# Copyright (C) 2024 ORGANIZATION
+# Italian translations for OpenPanel.
+# Copyright (C) 2024 OpenPanel
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
 #
