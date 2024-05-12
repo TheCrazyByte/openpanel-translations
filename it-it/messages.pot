@@ -92,7 +92,7 @@ msgstr ""
 
 #: modules/databases.py:221
 msgid "Edit MySQL Config"
-msgstr "Modifica MySQL onfig"
+msgstr "Modifica MySQL Config"
 
 #: modules/databases.py:238 templates/dashboard/dashboard.html:254
 #: templates/partials/sidebar.html:141
@@ -113,7 +113,7 @@ msgstr "accesso remoto MySQL disabilitato"
 
 #: modules/databases.py:272
 msgid "Remote MySQL access is now disabled."
-msgstr "accesso MySQL remoto è stato disabilitato"
+msgstr "Accesso MySQL remoto è stato disabilitato"
 
 #: modules/databases.py:280
 msgid "ON"
@@ -143,11 +143,11 @@ msgstr "Hai raggiunto il numero massimo di database permessi"
 #: modules/disk_usage.py:84 templates/dashboard/dashboard.html:161
 #: templates/partials/sidebar.html:116
 msgid "Disk Usage"
-msgstr ""
+msgstr "Utilizzo Disco"
 
 #: modules/domains.py:176
 msgid "Both domain_name and file_name are required."
-msgstr ""
+msgstr "domain_name e file_name sono richiesti"
 
 #: modules/domains.py:182 modules/domains.py:235 modules/domains.py:489
 #: modules/domains.py:586 modules/ip_blocker.py:58 modules/webserver.py:157
@@ -155,81 +155,81 @@ msgstr ""
 #: modules/websites.py:367 modules/websites.py:415 modules/websites.py:450
 #: modules/websites.py:506 modules/websites.py:561
 msgid "The domain does not belong to the user."
-msgstr ""
+msgstr "Il dominio non appartiene all'utente"
 
 #: modules/domains.py:190
 msgid "Invalid file_name. Allowed values: browser, ip, type, link."
-msgstr ""
+msgstr "file_name non valido. Valori ammessi: browser, ip, tipo, link."
 
 #: modules/domains.py:228 modules/domains.py:244
 msgid "Access Log"
-msgstr ""
+msgstr "Log Accessi"
 
 #: modules/domains.py:279
 msgid "Invalid data received"
-msgstr ""
+msgstr "Dati non validi ricevuti"
 
 #: modules/domains.py:350 templates/_shortcuts.html:143
 #: templates/dashboard/dashboard.html:203
 #: templates/dashboard/dashboard.html:212 templates/partials/sidebar.html:168
 msgid "Domains"
-msgstr ""
+msgstr "Domini"
 
 #: modules/domains.py:458
 msgid "Row deleted successfully"
-msgstr ""
+msgstr "Riga cancellata correttamente"
 
 #: modules/domains.py:509 modules/domains.py:521
 msgid "Edit DNS Zone"
-msgstr ""
+msgstr "modifica Zona DNS"
 
 #: modules/domains.py:547
 msgid "Zone file not found."
-msgstr ""
+msgstr "File Zona non trovato"
 
 #: modules/domains.py:570
 msgid "DNS record added successfully."
-msgstr ""
+msgstr "Record DNS aggiunto correttamente"
 
 #: modules/domains.py:596
 msgid "DNS zone saved and DNS service restarted."
-msgstr ""
+msgstr "Zona DNS salvata e servizio DNS riavviato"
 
 #: modules/domains.py:598
 msgid "New content not provided."
-msgstr ""
+msgstr "Nuovi contenuti non forniti."
 
 #: modules/domains.py:611
 msgid "Domain name not provided."
-msgstr ""
+msgstr "Nome dominio non fornito."
 
 #: modules/domains.py:615
 msgid "Edit VHosts file"
-msgstr ""
+msgstr "Modifica file VHosts"
 
 #: modules/domains.py:630
 msgid "Invalid request. Domain name and Vhost content must be provided."
-msgstr ""
+msgstr "Richiesta non valida. È necessario fornire il nome del dominio e il contenuto Vhost."
 
 #: modules/domains.py:636 modules/domains.py:638
 msgid "Edit Vhosts"
-msgstr ""
+msgstr "Modifica VHosts"
 
 #: modules/domains.py:636
 msgid "Virtual host configuration saved successfully."
-msgstr ""
+msgstr "Configurazione Virtual host salvata correttamente."
 
 #: modules/domains.py:716
 msgid "Error saving virtual host configuration. Configuration test failed."
-msgstr ""
+msgstr "Errore durante il salvataggio della configurazione dell'host virtuale. Test di configurazione fallito."
 
 #: modules/domains.py:722
 msgid "Error saving virtual host configuration. An unexpected error occurred."
-msgstr ""
+msgstr "Errore durante il salvataggio della configurazione dell'host virtuale. Si è verificato un errore imprevisto."
 
 #: modules/domains.py:905
 msgid "Error: Reached the maximum allowed number of domains on this hosting plan."
-msgstr ""
+msgstr "Errore: raggiunto il numero massimo consentito di domini su questo piano di hosting."
 
 #: modules/domains.py:1105 modules/ssl.py:256
 msgid ""
@@ -239,15 +239,15 @@ msgstr ""
 
 #: modules/domains.py:1149 modules/ssl.py:300
 msgid "Nginx configuration modified successfully, restarting nginx.."
-msgstr ""
+msgstr "Configurazione di Nginx modificata correttamente, riavvio di nginx.."
 
 #: modules/domains.py:1191
 msgid "Invalid URL. Please provide a URL with 'http://' or 'https://' prefix."
-msgstr ""
+msgstr "URL non valido. Fornisci un URL con il prefisso 'http://' o 'https://' ."
 
 #: modules/domains.py:1239 modules/ssl.py:163
 msgid "Unauthorized"
-msgstr ""
+msgstr "Non autorizzato"
 
 #: modules/filemanager.py:360
 msgid "File created successfully"
@@ -255,43 +255,43 @@ msgstr ""
 
 #: modules/filemanager.py:364
 msgid "Filename is missing"
-msgstr ""
+msgstr "Nome del file mancante"
 
 #: modules/filemanager.py:392
 msgid "Folder created successfully"
-msgstr ""
+msgstr "Cartella creata correttamente"
 
 #: modules/filemanager.py:396
 msgid "Foldername is missing"
-msgstr ""
+msgstr "Nome cartella mancante"
 
 #: modules/filemanager.py:425
 msgid "Files uploaded successfully"
-msgstr ""
+msgstr "File caricati correttamente"
 
 #: modules/filemanager.py:427
 msgid "No files were uploaded"
-msgstr ""
+msgstr "Nessun file è stato caricato"
 
 #: modules/filemanager.py:430
 msgid "Internal server error"
-msgstr ""
+msgstr "Errore interno del server"
 
 #: modules/filemanager.py:491
 msgid "Unsupported file format"
-msgstr ""
+msgstr "Formato del file non supportato"
 
 #: modules/filemanager.py:495
 msgid "File extracted successfully"
-msgstr ""
+msgstr "File estratto correttamente"
 
 #: modules/filemanager.py:567
 msgid "Archive created successfully"
-msgstr ""
+msgstr "Archivio creato correttamente"
 
 #: modules/filemanager.py:638
 msgid "User not authenticated."
-msgstr ""
+msgstr "Utente non autenticato"
 
 #: modules/filemanager.py:789
 msgid "File Editor"
@@ -299,7 +299,7 @@ msgstr ""
 
 #: modules/filemanager.py:852 modules/filemanager.py:876
 msgid "The specified directory does not exist."
-msgstr ""
+msgstr "La directory specificata non esiste"
 
 #: modules/filemanager.py:877 modules/filemanager.py:881
 #: templates/_shortcuts.html:131 templates/dashboard/dashboard.html:148
@@ -309,16 +309,16 @@ msgstr ""
 
 #: modules/fix_permissions.py:69
 msgid "Invalid fix_directory"
-msgstr ""
+msgstr "fix_directory non valida"
 
 #: modules/fix_permissions.py:74
 msgid "Success."
-msgstr ""
+msgstr "Riuscito"
 
 #: modules/fix_permissions.py:79 templates/dashboard/dashboard.html:193
 #: templates/fix_permissions.html:17 templates/partials/sidebar.html:132
 msgid "Fix Permissions"
-msgstr ""
+msgstr "Ripara Permessi"
 
 #: modules/inodes.py:88 templates/dashboard/dashboard.html:177
 #: templates/partials/sidebar.html:124
@@ -327,11 +327,11 @@ msgstr ""
 
 #: modules/malware_scan.py:65
 msgid "Malware Scanner"
-msgstr ""
+msgstr "Scansione Malware"
 
 #: modules/malware_scan.py:74
-msgid "No malware found"
-msgstr ""
+msgid "No malware foun"
+msgstr "Nessun malware trovato"
 
 #: modules/malware_scan.py:76
 msgid "Malware detected"
@@ -339,43 +339,43 @@ msgstr ""
 
 #: modules/malware_scan.py:78
 msgid "Scan result unknown"
-msgstr ""
+msgstr "Risultati scansioni sconosciuti"
 
 #: modules/malware_scan.py:80
 msgid "Connection to ClamAV daemon failed"
-msgstr ""
+msgstr "Connessione al servizio ClamAV fallito"
 
 #: modules/malware_scan.py:94
 msgid "No directory specified for scanning."
-msgstr ""
+msgstr "Nessuna directory specificata per la scansione"
 
 #: modules/malware_scan.py:104
 msgid "Invalid directory specified for scanning."
-msgstr ""
+msgstr "Directory specificata per la scansione non valida"
 
 #: modules/php.py:78
 msgid "Invalid input data"
-msgstr ""
+msgstr "Dati di input non validi"
 
 #: modules/php.py:82 modules/php.py:159 modules/php.py:412 modules/php.py:484
 msgid "success"
-msgstr ""
+msgstr "Riuscito"
 
 #: modules/php.py:87
 msgid "Configuration file not found"
-msgstr ""
+msgstr "File di configurazione non trovato"
 
 #: modules/php.py:161 modules/php.py:414
 msgid "error"
-msgstr ""
+msgstr "errore"
 
 #: modules/php.py:217
 msgid "Error fetching data"
-msgstr ""
+msgstr "Errore durante il recupero dei dati"
 
 #: modules/php.py:278 templates/dashboard/dashboard.html:351
 msgid "PHP.INI Editor"
-msgstr ""
+msgstr "Editor PHP.INI"
 
 #: modules/php.py:451 templates/dashboard/dashboard.html:334
 #: templates/partials/sidebar.html:318 templates/system/general.html:88
@@ -385,15 +385,15 @@ msgstr ""
 
 #: modules/php.py:504
 msgid "User not logged in"
-msgstr ""
+msgstr "Utente non loggato"
 
 #: modules/php.py:518
 msgid "No log files found"
-msgstr ""
+msgstr "Nessun file di log trovato"
 
 #: modules/php.py:538
 msgid "Log file deleted"
-msgstr ""
+msgstr "File log cancellato"
 
 #: modules/phpmyadmin.py:100 modules/terminal.py:49 modules/terminal.py:50
 msgid "Error extracting dbuser and dbpass from Docker container."
@@ -401,19 +401,19 @@ msgstr ""
 
 #: modules/phpmyadmin.py:105 modules/terminal.py:53 modules/terminal.py:54
 msgid "Error executing Docker command."
-msgstr ""
+msgstr "Errore durante l'estrazione di dbuser e dbpass dal contenitore Docker."
 
 #: modules/phpmyadmin.py:119
 msgid "Container port not found for the user."
-msgstr ""
+msgstr "Porta del container non trovata per l'utente."
 
 #: modules/process_manager.py:53
 msgid "message"
-msgstr ""
+msgstr "messaggio"
 
 #: modules/process_manager.py:53
 msgid "Process killed successfully"
-msgstr ""
+msgstr "Processo terminato con successo"
 
 #: modules/process_manager.py:57
 msgid "error_message"
@@ -426,34 +426,34 @@ msgstr ""
 
 #: modules/process_manager.py:95
 msgid "Container not found"
-msgstr ""
+msgstr "Container non trovato"
 
 #: modules/services.py:52 templates/dashboard/dashboard.html:482
 #: templates/system/general.html:124 templates/system/general.html:127
 #: templates/system/server_info.html:9
 msgid "Server Information"
-msgstr ""
+msgstr "Informazioni server"
 
 #: modules/services.py:72 templates/dashboard/dashboard.html:474
 msgid "Services Status"
-msgstr ""
+msgstr "Stato Servizi"
 
 #: modules/ssh.py:44
 msgid "Invalid action"
-msgstr ""
+msgstr "Azione non valida"
 
 #: modules/ssh.py:58 templates/ssh.html:25
 msgid "Password changed successfully."
-msgstr ""
+msgstr "Password cambiata correttamente"
 
 #: modules/ssh.py:69 templates/dashboard/dashboard.html:405
 #: templates/partials/sidebar.html:333
 msgid "SSH Access"
-msgstr ""
+msgstr "Accesso SSH"
 
 #: modules/ssl.py:103
 msgid "Domain: {} - SSL Expiry Date: {}"
-msgstr ""
+msgstr "Dominio: {} - SSL Expiry Date: {}"
 
 #: modules/ssl.py:127
 msgid "Domains List:"
