@@ -19,15 +19,15 @@ msgstr ""
 
 #: modules/backups.py:125 modules/domains.py:233
 msgid "Log file not found."
-msgstr ""
+msgstr "Log file non trovato"
 
 #: modules/backups.py:271
 msgid "Databases restored successfully"
-msgstr ""
+msgstr "Database ripristinato correttamente"
 
 #: modules/backups.py:289
 msgid "Directory not found"
-msgstr ""
+msgstr "Directory non trovata"
 
 #: modules/crons.py:67 templates/dashboard/dashboard.html:397
 msgid "CronJobs"
@@ -35,48 +35,48 @@ msgstr ""
 
 #: modules/crons.py:92
 msgid "Cron job saved successfully!"
-msgstr ""
+msgstr "cron job salvato correttamente!"
 
 #: modules/crons.py:94
 msgid "Error saving cron job."
-msgstr ""
+msgstr "Errore nel salvataggio cron job."
 
 #: modules/crons.py:122
 msgid "Cron job successfully modified."
-msgstr ""
+msgstr "Cron job modificato correttamente."
 
 #: modules/crons.py:126
 msgid "Error editing cron job"
-msgstr ""
+msgstr "Errore nella modifica del cron job."
 
 #: modules/crons.py:137
 msgid "Cron job was successfully deleted."
-msgstr ""
+msgstr "Cron job cancellato correttamente."
 
 #: modules/crons.py:141
 msgid "Error deleting cron job"
-msgstr ""
+msgstr "Errore nella cancellazione del cron job"
 
 #: modules/dashboard.py:92 modules/dashboard.py:95 modules/dashboard.py:188
 #: modules/dashboard.py:207 modules/dashboard.py:265 modules/dashboard.py:431
 #: modules/ip_blocker.py:25 modules/php.py:228 modules/webserver.py:27
 #: modules/webserver.py:109 modules/webserver.py:145 modules/webserver.py:223
 msgid "User not authenticated"
-msgstr ""
+msgstr "Utente non autenticato"
 
 #: modules/dashboard.py:166
 msgid "Error fetching country code:"
-msgstr ""
+msgstr "Errore nel recupero del prefisso internazionale"
 
 #: modules/dashboard.py:234 modules/dashboard.py:333
 msgid "Error retrieving database count for the user."
-msgstr ""
+msgstr "Errore durante il recupero del conteggio del database per l'utente"
 
 #: modules/dashboard.py:364 modules/dashboard.py:366 modules/dashboard.py:372
 #: modules/dashboard.py:375 templates/edit_mysql_config.html:179
 #: templates/remote_mysql.html:174 templates/ssh.html:197
 msgid "Unknown"
-msgstr ""
+msgstr "Sconosciuto"
 
 #: modules/databases.py:187
 msgid ""
@@ -92,7 +92,7 @@ msgstr ""
 
 #: modules/databases.py:221
 msgid "Edit MySQL Config"
-msgstr ""
+msgstr "Modifica MySQL onfig"
 
 #: modules/databases.py:238 templates/dashboard/dashboard.html:254
 #: templates/partials/sidebar.html:141
@@ -101,19 +101,19 @@ msgstr ""
 
 #: modules/databases.py:263
 msgid "enabled remote MySQL"
-msgstr ""
+msgstr "Abilita MySQL remoto"
 
 #: modules/databases.py:265
 msgid "Remote MySQL access is now enabled."
-msgstr ""
+msgstr "Accesso remoto MySQL è stato abilitato."
 
 #: modules/databases.py:270
 msgid "disabled remote MySQL"
-msgstr ""
+msgstr "accesso remoto MySQL disabilitato"
 
 #: modules/databases.py:272
 msgid "Remote MySQL access is now disabled."
-msgstr ""
+msgstr "accesso MySQL remoto è stato disabilitato"
 
 #: modules/databases.py:280
 msgid "ON"
@@ -130,15 +130,15 @@ msgstr ""
 #: modules/databases.py:290 templates/dashboard/dashboard.html:275
 #: templates/partials/sidebar.html:158
 msgid "Remote MySQL"
-msgstr ""
+msgstr "MySQL remoto"
 
 #: modules/databases.py:310
 msgid "MySQL Processes"
-msgstr ""
+msgstr "Processi MySQL"
 
 #: modules/databases.py:432
 msgid "You have reached the maximum number of databases allowed."
-msgstr ""
+msgstr "Hai raggiunto il numero massimo di database permessi"
 
 #: modules/disk_usage.py:84 templates/dashboard/dashboard.html:161
 #: templates/partials/sidebar.html:116
