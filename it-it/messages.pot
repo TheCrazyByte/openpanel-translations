@@ -457,27 +457,27 @@ msgstr "Dominio: {} - SSL Expiry Date: {}"
 
 #: modules/ssl.py:127
 msgid "Domains List:"
-msgstr ""
+msgstr "Lista Domini"
 
 #: modules/ssl.py:129
 msgid "SSL/TLS Settings"
-msgstr ""
+msgstr "Settaggi SSL/TLS"
 
 #: modules/ssl.py:146
 msgid "Invalid filename"
-msgstr ""
+msgstr "Nome file non valido"
 
 #: modules/ssl.py:158
 msgid "Domain not found"
-msgstr ""
+msgstr "Dominio non trovato"
 
 #: modules/ssl.py:168
 msgid "Invalid file format. Only .pem files are allowed."
-msgstr ""
+msgstr "Formato file non valido. Solo i file .pem sono permessi."
 
 #: modules/ssl.py:178
 msgid "File not found"
-msgstr ""
+msgstr "File non trovato"
 
 #: modules/ssl.py:188
 msgid "Invalid request"
@@ -485,44 +485,44 @@ msgstr ""
 
 #: modules/ssl.py:233 modules/ssl.py:320
 msgid "User ID is missing"
-msgstr ""
+msgstr "User ID mancante"
 
 #: modules/ssl.py:243 modules/ssl.py:330
 msgid "Domain ID or Domain URL is missing"
-msgstr ""
+msgstr "ID Dominio o URL Dominio mancante."
 
 #: modules/ssl.py:312
 msgid "An error occurred while generating SSL"
-msgstr ""
+msgstr "Si è verificato un errore nella generazione del certificato SSL"
 
 #: modules/ssl.py:395
 msgid "Nginx SSL configuration removed successfully, restarting nginx.."
-msgstr ""
+msgstr "Configurazione SSL di Nginx rimossa correttamente, riavvio nginx.."
 
 #: modules/ssl.py:403 modules/ssl.py:407
 msgid "An error occurred while deleting SSL"
-msgstr ""
+msgstr "Si è verificato un errore durante la concellazione SSL"
 
 #: modules/terminal.py:58
 msgid "The ttyd screen session is dead. Cleaning up and starting a new one..."
-msgstr ""
+msgstr "La sessione dello schermo ttyd è terminata. Ripulire e iniziarne uno nuovo..."
 
 #: modules/terminal.py:64
 msgid "No ttyd screen session found. Starting a new one..."
-msgstr ""
+msgstr "Nessuna sessione schermo ttyd trovata. Avvio di una nuova.."
 
 #: modules/terminal.py:68
 msgid "The phpmyadmin screen session is active."
-msgstr ""
+msgstr "La sessione video di phpmyadmin è attiva"
 
 #: modules/usage.py:89 templates/dashboard/dashboard.html:425
 #: templates/partials/sidebar.html:290
 msgid "Resource Usage"
-msgstr ""
+msgstr "Utilizzo Risorse"
 
 #: modules/usage.py:169
 msgid "Container name is required"
-msgstr ""
+msgstr "E' richiesto il nome del Container"
 
 #: modules/usage.py:280
 msgid "Resource Usage History"
