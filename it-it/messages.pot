@@ -3426,7 +3426,7 @@ msgstr ""
 
 #: templates/websites.html:767
 msgid "Restrict access to files and directories"
-msgstr ""
+msgstr "Registringi accesso a files e directory"
 
 #: templates/websites.html:773 templates/websites.html:792
 #: templates/websites.html:812 templates/websites.html:832
