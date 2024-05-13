@@ -397,7 +397,7 @@ msgstr "File log cancellato"
 
 #: modules/phpmyadmin.py:100 modules/terminal.py:49 modules/terminal.py:50
 msgid "Error extracting dbuser and dbpass from Docker container."
-msgstr ""
+msgstr "Errore durante l'estrazione di dbuser e dbpass dal contenitore Docker."
 
 #: modules/phpmyadmin.py:105 modules/terminal.py:53 modules/terminal.py:54
 msgid "Error executing Docker command."
@@ -604,7 +604,7 @@ msgstr "Errore eseguendo la query:"
 
 #: modules/wordpress.py:131 templates/partials/sidebar.html:75
 msgid "WordPress Manager"
-msgstr ""
+msgstr "Gestore WordPress"
 
 #: modules/wordpress.py:205
 msgid "Backup restored successfully!"
@@ -624,7 +624,7 @@ msgstr "Sito non trovato nel database"
 
 #: modules/wordpress.py:395
 msgid "WordPress removal completed successfully!"
-msgstr ""
+msgstr "Rimozione di WordPress copletata con successo"
 
 #: modules/wordpress.py:399
 msgid "An error occurred during WordPress removal."
@@ -639,6 +639,8 @@ msgid ""
 "Scan completed. Found installations:\n"
 "\n"
 msgstr ""
+"Scansione completata. Trovate installazioni:\n"
+"\n"
 
 #: modules/wordpress.py:640 templates/wordpress.html:104
 msgid "Scan skipped. WordPress installation is currently running."
@@ -649,6 +651,8 @@ msgid ""
 "Error: .htaccess file already exists. WordPress installation cannot "
 "proceed!"
 msgstr ""
+"Errore: .htaccess file già esistente. L'installazione di WordPress non "
+"può proseguire!"
 
 #: modules/wordpress.py:1027
 msgid "Hooray, WordPress was successfully installed!"
@@ -792,41 +796,41 @@ msgstr "Errore nel caricanmeto dei dati JSON"
 
 #: modules/json/databases_size_info.py:37
 msgid "Invalid unit parameter. Use \"bytes\", \"kb\", \"mb\", or \"gb\"."
-msgstr ""
+msgstr "Parametro di unità non valido. Usa \"bytes\", \"kb\", \"mb\", or \"gb\"."
 
 #: modules/json/helpers.py:111
 msgid "URL parameter is missing"
-msgstr ""
+msgstr "Il parametro URL è mancante"
 
 #: modules/json/helpers.py:118
 msgid "Invalid URL provided"
-msgstr ""
+msgstr "URL fornito non valido"
 
 #: modules/json/helpers.py:268
 msgid "Unable to retrieve size"
-msgstr ""
+msgstr "Impossibile recuperare le dimensioni"
 
 #: modules/json/helpers.py:666
 msgid "Error: Invalid log file path. It must end with '.log'."
-msgstr ""
+msgstr "Errore: Percorso del file di registro non valido. Deve terminare con ".log"."
 
 #: templates/_shortcuts.html:6
 msgid "Available Keyboard Shortcuts"
-msgstr ""
+msgstr "Scorciatoie da tastieta disponibili"
 
 #: templates/_shortcuts.html:15
 msgid "File Manager Shortcuts"
-msgstr ""
+msgstr "Scorciatoie File Manager"
 
 #: templates/_shortcuts.html:19 templates/_shortcuts.html:80
 #: templates/_shortcuts.html:112
 msgid "Shortcut"
-msgstr ""
+msgstr "Scorciatoie"
 
 #: templates/_shortcuts.html:20 templates/_shortcuts.html:81
 #: templates/databases.html:393 templates/databases.html:431
 msgid "Action"
-msgstr ""
+msgstr "Azione"
 
 #: templates/_shortcuts.html:25
 msgid "Shift + A"
@@ -834,7 +838,7 @@ msgstr ""
 
 #: templates/_shortcuts.html:26
 msgid "Select All"
-msgstr ""
+msgstr "Seleziona Tutto"
 
 #: templates/_shortcuts.html:29
 msgid "Shift + N"
@@ -842,7 +846,7 @@ msgstr ""
 
 #: templates/_shortcuts.html:30
 msgid "Create a New Folder"
-msgstr ""
+msgstr "Crea Nuova Cartella"
 
 #: templates/_shortcuts.html:33
 msgid "Shift + U"
@@ -850,7 +854,7 @@ msgstr ""
 
 #: templates/_shortcuts.html:34 templates/filemanager.html:2161
 msgid "Upload Files"
-msgstr ""
+msgstr "Carica Files"
 
 #: templates/_shortcuts.html:37 templates/_shortcuts.html:86
 msgid "Shift + C"
@@ -858,7 +862,7 @@ msgstr ""
 
 #: templates/_shortcuts.html:38
 msgid "Copy Files"
-msgstr ""
+msgstr "Copia Files"
 
 #: templates/_shortcuts.html:41
 msgid "Shift + M"
@@ -866,15 +870,15 @@ msgstr ""
 
 #: templates/_shortcuts.html:42
 msgid "Move Files"
-msgstr ""
+msgstr "Muovi Files"
 
 #: templates/_shortcuts.html:45
 msgid "DELETE"
-msgstr ""
+msgstr "CANCELLA"
 
 #: templates/_shortcuts.html:46
 msgid "Delete File"
-msgstr ""
+msgstr "Cancella File"
 
 #: templates/_shortcuts.html:49
 msgid "Shift + V"
@@ -883,7 +887,7 @@ msgstr ""
 #: templates/_shortcuts.html:50 templates/filemanager.html:2198
 #: templates/ssl.html:65
 msgid "View File"
-msgstr ""
+msgstr "Vedi il File"
 
 #: templates/_shortcuts.html:53
 msgid "Shift + E"
@@ -891,7 +895,7 @@ msgstr ""
 
 #: templates/_shortcuts.html:54
 msgid "Edit File"
-msgstr ""
+msgstr "Modifica il File"
 
 #: templates/_shortcuts.html:57
 msgid "Shift + R"
@@ -899,7 +903,7 @@ msgstr ""
 
 #: templates/_shortcuts.html:58
 msgid "Rename Files"
-msgstr ""
+msgstr "Rinomina Files"
 
 #: templates/_shortcuts.html:61
 msgid "Shift + Z"
@@ -907,7 +911,7 @@ msgstr ""
 
 #: templates/_shortcuts.html:62
 msgid "Compress Files"
-msgstr ""
+msgstr "Comprimi Files"
 
 #: templates/_shortcuts.html:65
 msgid "Shift + X"
@@ -915,7 +919,7 @@ msgstr ""
 
 #: templates/_shortcuts.html:66
 msgid "Extract Files"
-msgstr ""
+msgstr "Estrai Files"
 
 #: templates/_shortcuts.html:69 templates/_shortcuts.html:130
 msgid "Shift + F"
@@ -927,11 +931,11 @@ msgstr ""
 
 #: templates/_shortcuts.html:76
 msgid "Resource Usage Shortcuts"
-msgstr ""
+msgstr "Scorciatoie per l'utilizzo delle risorse"
 
 #: templates/_shortcuts.html:87
 msgid "Current Resource Usage"
-msgstr ""
+msgstr "Utilizzo Risorse Correnti"
 
 #: templates/_shortcuts.html:90
 msgid "Shift + O"
@@ -939,7 +943,7 @@ msgstr ""
 
 #: templates/_shortcuts.html:91
 msgid "Historical (older) Usage"
-msgstr ""
+msgstr "Utilizzo storico (precedente)."
 
 #: templates/_shortcuts.html:94
 msgid "Shift + L"
@@ -947,15 +951,15 @@ msgstr ""
 
 #: templates/_shortcuts.html:95
 msgid "View logs"
-msgstr ""
+msgstr "Vedi logs"
 
 #: templates/_shortcuts.html:107
 msgid "Global Shortcuts"
-msgstr ""
+msgstr "Scorciatoie globali"
 
 #: templates/_shortcuts.html:113
 msgid "Page"
-msgstr ""
+msgstr "Pagina"
 
 #: templates/_shortcuts.html:118 templates/dashboard/dashboard.html:604
 msgid "/"
@@ -963,7 +967,7 @@ msgstr ""
 
 #: templates/_shortcuts.html:119 templates/base.html:575
 msgid "Search"
-msgstr ""
+msgstr "Cerca"
 
 #: templates/_shortcuts.html:122
 msgid "Shift + H"
@@ -971,7 +975,7 @@ msgstr ""
 
 #: templates/_shortcuts.html:123
 msgid "Dashboard"
-msgstr ""
+msgstr "Cruscotto"
 
 #: templates/_shortcuts.html:126
 msgid "Shift + W"
@@ -1014,7 +1018,7 @@ msgstr ""
 #: templates/user/activity.html:116 templates/user/loginlog.html:11
 #: templates/user/twofa_settings.html:10
 msgid "Activity"
-msgstr ""
+msgstr "Attività"
 
 #: templates/_shortcuts.html:150
 msgid "Shift + Y"
@@ -1022,7 +1026,7 @@ msgstr ""
 
 #: templates/_shortcuts.html:151
 msgid "Usage"
-msgstr ""
+msgstr "Utilizzo"
 
 #: templates/_shortcuts.html:154
 msgid "Shift + S"
@@ -1030,7 +1034,7 @@ msgstr ""
 
 #: templates/_shortcuts.html:155 templates/system/general.html:52
 msgid "Settings"
-msgstr ""
+msgstr "Configurazioni"
 
 #: templates/apache_nginx_conf_editor.html:52
 msgid "Success"
@@ -1038,43 +1042,43 @@ msgstr ""
 
 #: templates/apache_nginx_conf_editor.html:85
 msgid "Here you can edit the main configuration file for your webserver."
-msgstr ""
+msgstr "Qui puoi modificare il file di configurazione principale per il tuo webserver."
 
 #: templates/apache_nginx_conf_editor.html:104
 #: templates/domains/domains.html:478 templates/pm2.html:199
 #: templates/system/modsecurity.html:114 templates/websites.html:755
 msgid "Status"
-msgstr ""
+msgstr "Stato"
 
 #: templates/apache_nginx_conf_editor.html:108 templates/cronjobs.html:716
 #: templates/domains/domains.html:482 templates/domains/edit_dns_zone.html:118
 #: templates/domains/edit_dns_zone.html:346 templates/ftp.html:37
 #: templates/ssl.html:136 templates/wordpress.html:457
 msgid "Actions"
-msgstr ""
+msgstr "Azioni"
 
 #: templates/apache_nginx_conf_editor.html:109 templates/edit_file.html:79
 #: templates/edit_mysql_config.html:183 templates/php_ini_editor.html:80
 msgid "Save Changes"
-msgstr ""
+msgstr "Salva Cambiamenti"
 
 #: templates/backup.html:11 templates/backup.html:154 templates/backup.html:192
 #: templates/websites.html:1411 templates/websites.html:1613
 #: templates/websites.html:2231
 msgid "Restore"
-msgstr ""
+msgstr "Ripristina"
 
 #: templates/backup.html:23 templates/backup.html:132
 msgid "Restore Files"
-msgstr ""
+msgstr "Ripristina Files"
 
 #: templates/backup.html:24
 msgid "Restore your files from backup"
-msgstr ""
+msgstr "Ripristina i tuoi file dal backup"
 
 #: templates/backup.html:32
 msgid "Restore Databases"
-msgstr ""
+msgstr "Ripristina Databases"
 
 #: templates/backup.html:32
 msgid "Restore all databases from backup"
@@ -1086,19 +1090,19 @@ msgstr ""
 
 #: templates/backup.html:53
 msgid "Total Backups"
-msgstr ""
+msgstr "Backups Totale"
 
 #: templates/backup.html:64
 msgid "Storage Used"
-msgstr ""
+msgstr "Archiviazione usata"
 
 #: templates/backup.html:71
 msgid "Destination"
-msgstr ""
+msgstr "Destinazione"
 
 #: templates/backup.html:75
 msgid "Backup limit for current hosting plan is 100GB"
-msgstr ""
+msgstr "Il limite di backup per il piano di hosting corrente è di 100GB"
 
 #: templates/backup.html:87
 msgid "Backup Logs"
@@ -1106,19 +1110,19 @@ msgstr ""
 
 #: templates/backup.html:99
 msgid "View Full Backup Log"
-msgstr ""
+msgstr "Visualizza il registro di backup completo "
 
 #: templates/backup.html:108
 msgid "Restore History"
-msgstr ""
+msgstr "Cronologia di Restore"
 
 #: templates/backup.html:120
 msgid "View Full Restore Log"
-msgstr ""
+msgstr "Visualizza il registro di ripristino completo"
 
 #: templates/backup.html:145 templates/backup.html:178
 msgid "No backups available."
-msgstr ""
+msgstr "Nessun Backup Disponibile"
 
 #: templates/backup.html:153 templates/backup.html:191
 #: templates/cronjobs.html:779 templates/domains/domains.html:242
@@ -1131,23 +1135,23 @@ msgstr ""
 #: templates/ftp.html:132 templates/ftp.html:175 templates/websites.html:2162
 #: templates/websites.html:2207 templates/websites.html:2230
 msgid "Cancel"
-msgstr ""
+msgstr "Cancella"
 
 #: templates/backup.html:165
 msgid "Restore MySQL Database"
-msgstr ""
+msgstr "Ripristina Database MySQL"
 
 #: templates/backup.html:171
 msgid "Select a backup date:"
-msgstr ""
+msgstr "Seleziona una data di backup"
 
 #: templates/backup.html:183
 msgid "Select a database:"
-msgstr ""
+msgstr "Seleziona Database:"
 
 #: templates/base.html:163 templates/base.html:623 templates/sites.html:30
 msgid "What kind of site would you like to create?"
-msgstr ""
+msgstr "Che tipo di sito vuoi creare?"
 
 #: templates/base.html:208 templates/base.html:667
 msgid "NodeJS / Python"
@@ -1155,43 +1159,43 @@ msgstr ""
 
 #: templates/base.html:239 templates/base.html:300
 msgid "Copy Path to Clipboard"
-msgstr ""
+msgstr "Copia il percorso negli appunti"
 
 #: templates/base.html:262
 msgid "Click to display the full path"
-msgstr ""
+msgstr "Clicca per visualizzare il percorso completo!"
 
 #: templates/base.html:296
 msgid "Copied to Clipboard!"
-msgstr ""
+msgstr "Copiato negli appunti!"
 
 #: templates/base.html:305
 msgid "Unable to copy path to clipboard"
-msgstr ""
+msgstr "Impossibile copiare il percorso negli appunti"
 
 #: templates/base.html:359
 msgid "Navigation"
-msgstr ""
+msgstr "Navigazione"
 
 #: templates/base.html:361
 msgid "Search Files & Folders"
-msgstr ""
+msgstr "Cerca Files e Cartelle"
 
 #: templates/base.html:365
 msgid "Reload"
-msgstr ""
+msgstr "Ricarica"
 
 #: templates/base.html:369
 msgid "New File"
-msgstr ""
+msgstr "Nuovo File"
 
 #: templates/base.html:373
 msgid "New Folder"
-msgstr ""
+msgstr "Nuova Cartella"
 
 #: templates/base.html:377 templates/filemanager.html:2171
 msgid "Upload"
-msgstr ""
+msgstr "Carica"
 
 #: templates/cronjobs.html:29
 msgid ""
@@ -1199,81 +1203,84 @@ msgid ""
 "execution. It allows you to automate repetitive tasks, such as sending "
 "notifications or running scripts at specific intervals."
 msgstr ""
+"Un lavoro cron è un comando Linux utilizzato per pianificare attività per il futuro "
+"Ti consente di automatizzare attività ripetitive, come l'invio di "
+"notifiche o l'esecuzione di script a intervalli specifici."
 
 #: templates/cronjobs.html:39
 msgid "Add New Cron Job"
-msgstr ""
+msgstr "Inserisci nuovo Cron Job"
 
 #: templates/cronjobs.html:42 templates/cronjobs.html:86
 #: templates/cronjobs.html:300 templates/cronjobs.html:551
 msgid "-- Common Settings --"
-msgstr ""
+msgstr "-- Impostazioni Comuni --"
 
 #: templates/cronjobs.html:45 templates/cronjobs.html:89
 msgid "Once Per Minute"
-msgstr ""
+msgstr "Una volta al minuto"
 
 #: templates/cronjobs.html:48 templates/cronjobs.html:95
 msgid "Once Per Five Minutes"
-msgstr ""
+msgstr "Una Volta Ogni Cinque Minuti"
 
 #: templates/cronjobs.html:51
 msgid "Twice Per Hour"
-msgstr ""
+msgstr "Due Volte all'Ora"
 
 #: templates/cronjobs.html:54
 msgid "Once Per Hour"
-msgstr ""
+msgstr "Una Volta Ogni Ora"
 
 #: templates/cronjobs.html:57
 msgid "Twice Per Day"
-msgstr ""
+msgstr "Due Volte al Giorno"
 
 #: templates/cronjobs.html:60
 msgid "Once Per Day"
-msgstr ""
+msgstr "Una volta al Giorno"
 
 #: templates/cronjobs.html:63
 msgid "Once Per Week"
-msgstr ""
+msgstr "Una Volta a Settimana"
 
 #: templates/cronjobs.html:66 templates/cronjobs.html:359
 msgid "On the 1st and 15th of the Month"
-msgstr ""
+msgstr "Al 1 e all'15 giorno del Mese"
 
 #: templates/cronjobs.html:69
 msgid "Once Per Month"
-msgstr ""
+msgstr "Una Volta al mese"
 
 #: templates/cronjobs.html:72
 msgid "Once Per Year"
-msgstr ""
+msgstr "Una Volta all'Anno"
 
 #: templates/cronjobs.html:78
 msgid "Minute:"
-msgstr ""
+msgstr "Minuto:"
 
 #: templates/cronjobs.html:82 templates/cronjobs.html:298
 #: templates/cronjobs.html:343 templates/cronjobs.html:467
 #: templates/cronjobs.html:549
 msgid "Common Settings:"
-msgstr ""
+msgstr "Impostazioni Comuni:"
 
 #: templates/cronjobs.html:92
 msgid "Once Per Two Minutes"
-msgstr ""
+msgstr "Una Volta ogni Due Minuti"
 
 #: templates/cronjobs.html:98
 msgid "Once Per Ten Minutes"
-msgstr ""
+msgstr "Una Volta ogni dieci Minuti"
 
 #: templates/cronjobs.html:101
 msgid "Once Per Fifteen Minutes"
-msgstr ""
+msgstr "Una Volta ogni Quindici Minuti"
 
 #: templates/cronjobs.html:104
 msgid "Once Per Thirty Minutes"
-msgstr ""
+msgstr "Una Volta ogni Trenta Minuti"
 
 #: templates/cronjobs.html:107
 msgid "-- Minutes --"
@@ -1281,15 +1288,15 @@ msgstr ""
 
 #: templates/cronjobs.html:110
 msgid "At the beginning of the hour."
-msgstr ""
+msgstr "All'inizio dell'ora."
 
 #: templates/cronjobs.html:155
 msgid "At one quarter past the hour."
-msgstr ""
+msgstr "A un quarto d'ora"
 
 #: templates/cronjobs.html:200
 msgid "At half past the hour."
-msgstr ""
+msgstr "A mezz'ora."
 
 #: templates/cronjobs.html:245
 msgid "At one quarter until the hour."
