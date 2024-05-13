@@ -481,7 +481,7 @@ msgstr "File non trovato"
 
 #: modules/ssl.py:188
 msgid "Invalid request"
-msgstr ""
+msgstr "Richiesta non valida"
 
 #: modules/ssl.py:233 modules/ssl.py:320
 msgid "User ID is missing"
@@ -526,7 +526,7 @@ msgstr "E' richiesto il nome del Container"
 
 #: modules/usage.py:280
 msgid "Resource Usage History"
-msgstr ""
+msgstr "Cronologia utilizzo risorse"
 
 #: modules/webserver.py:42
 msgid "Nginx Configuration Editor"
@@ -534,31 +534,31 @@ msgstr ""
 
 #: modules/webserver.py:47
 msgid "Apache Configuration Editor"
-msgstr ""
+msgstr "Editor configurazione Apache"
 
 #: modules/webserver.py:106 templates/partials/sidebar.html:358
 msgid "Server Settings"
-msgstr ""
+msgstr "Configurazione Server"
 
 #: modules/webserver.py:141 templates/dashboard/dashboard.html:466
 msgid "ModSecurity Settings"
-msgstr ""
+msgstr "Configurazione ModSecurity"
 
 #: modules/website_builder.py:83
 msgid "My Site"
-msgstr ""
+msgstr "Mio Sito"
 
 #: modules/website_builder.py:84
 msgid "My Simple Site"
-msgstr ""
+msgstr "Mio Sito Semplice"
 
 #: modules/website_builder.py:93
 msgid "Error: .htaccess file already exists. Website creation cannot proceed."
-msgstr ""
+msgstr "Errore: il file .htaccess esiste già. Impossibile procedere alla creazione del sito Web."
 
 #: modules/website_builder.py:128
 msgid "New HTML website was successfully created!"
-msgstr ""
+msgstr "Nuovo Sito HTML creato con successo! "
 
 #: modules/website_builder.py:198 modules/websites.py:695
 #: templates/sites.html:53
@@ -567,23 +567,23 @@ msgstr ""
 
 #: modules/websites.py:176
 msgid "expired or not available"
-msgstr ""
+msgstr "Scaduto o non disponibile"
 
 #: modules/websites.py:179
 msgid "not found"
-msgstr ""
+msgstr "non trovato"
 
 #: modules/websites.py:182
 msgid "file not found"
-msgstr ""
+msgstr "file non trovato"
 
 #: modules/websites.py:342
 msgid "Debugging options updated successfully"
-msgstr ""
+msgstr "Opzioni di debug aggiornate con successo"
 
 #: modules/websites.py:394
 msgid "General options edited successfully"
-msgstr ""
+msgstr "Opzioni generali modificate con successo"
 
 #: modules/websites.py:424 templates/websites.html:1752
 msgid "WordPress updated successfully"
@@ -591,7 +591,7 @@ msgstr ""
 
 #: modules/websites.py:481
 msgid "Update preferences saved successfully"
-msgstr ""
+msgstr "Preferenze di aggiornamento salvate con successo"
 
 #: modules/websites.py:660 modules/websites.py:825 templates/sites.html:13
 #: templates/sites.html:92
@@ -600,7 +600,7 @@ msgstr ""
 
 #: modules/websites.py:731
 msgid "Error executing the query:"
-msgstr ""
+msgstr "Errore eseguendo la query:"
 
 #: modules/wordpress.py:131 templates/partials/sidebar.html:75
 msgid "WordPress Manager"
@@ -608,19 +608,19 @@ msgstr ""
 
 #: modules/wordpress.py:205
 msgid "Backup restored successfully!"
-msgstr ""
+msgstr "Backup ripristinato con successo!"
 
 #: modules/wordpress.py:267
 msgid "Backup completed successfully!"
-msgstr ""
+msgstr "Backup completato con successo"
 
 #: modules/wordpress.py:270
 msgid "No backup options selected."
-msgstr ""
+msgstr "Nessuna opzione di backup selezionata."
 
 #: modules/wordpress.py:294
 msgid "Site not found in the database."
-msgstr ""
+msgstr "Sito non trovato nel database"
 
 #: modules/wordpress.py:395
 msgid "WordPress removal completed successfully!"
@@ -628,11 +628,11 @@ msgstr ""
 
 #: modules/wordpress.py:399
 msgid "An error occurred during WordPress removal."
-msgstr ""
+msgstr "Si è verificato un errore durante la rimozione di WordPress"
 
 #: modules/wordpress.py:424
 msgid "An error occurred during WordPress detachment."
-msgstr ""
+msgstr "Si è verificato un erroe durante il distacco di WordPress"
 
 #: modules/wordpress.py:610 modules/wordpress.py:787
 msgid ""
@@ -642,7 +642,7 @@ msgstr ""
 
 #: modules/wordpress.py:640 templates/wordpress.html:104
 msgid "Scan skipped. WordPress installation is currently running."
-msgstr ""
+msgstr "Scansione interrotta. L'installazione di WordPress è attualmente in esecuzione."
 
 #: modules/wordpress.py:854
 msgid ""
@@ -652,7 +652,7 @@ msgstr ""
 
 #: modules/wordpress.py:1027
 msgid "Hooray, WordPress was successfully installed!"
-msgstr ""
+msgstr "Evviva, WordPress è stato installato con successo!"
 
 #: modules/account/login.py:27 templates/user/account.html:15
 #: templates/user/activity.html:117 templates/user/loginlog.html:12
@@ -662,23 +662,23 @@ msgstr ""
 
 #: modules/account/login.py:91
 msgid "User does not exist."
-msgstr ""
+msgstr "L'utente non esiste."
 
 #: modules/account/login.py:93
 msgid "Error occurred while trying to auto-login."
-msgstr ""
+msgstr "Si è verificato un errore durante il tentativo di accesso automatico."
 
 #: modules/account/login.py:97
 msgid "Invalid admin token."
-msgstr ""
+msgstr "Token admin non valido"
 
 #: modules/account/login.py:143
 msgid "Invalid username or password. Please try again."
-msgstr ""
+msgstr "Username o Password non corretti. riprova."
 
 #: modules/account/login.py:169
 msgid "Invalid 2FA code. Please try again."
-msgstr ""
+msgstr "Codice 2FA non valido. Riprova"
 
 #: modules/account/login_history.py:28 templates/dashboard/dashboard.html:527
 msgid "Login History"
@@ -690,31 +690,31 @@ msgstr ""
 
 #: modules/account/twofa.py:109
 msgid "Two-Factor Authentication has been enabled."
-msgstr ""
+msgstr "L'autenticazione a due fattori è stata abilitata"
 
 #: modules/account/twofa.py:113
 msgid "Two-Factor Authentication has been disabled."
-msgstr ""
+msgstr "L'autenticazione a due fattori è stata disabilitata."
 
 #: modules/account/twofa.py:124 modules/account/twofa.py:127
 msgid "2FA Settings"
-msgstr ""
+msgstr "Configurazione 2FA"
 
 #: modules/cache/elasticsearch.py:57 modules/cache/elasticsearch.py:63
 msgid "Elasticsearch installed successfully."
-msgstr ""
+msgstr "Elasticsearch installato correttamente."
 
 #: modules/cache/elasticsearch.py:66 modules/cache/elasticsearch.py:70
 msgid "Error: Elasticsearch installation failed."
-msgstr ""
+msgstr "Errore: Elasticsearch istallazione fallita."
 
 #: modules/cache/elasticsearch.py:82
 msgid "Elasticsearch is now enabled."
-msgstr ""
+msgstr "Elasticsearch è stato abilitato."
 
 #: modules/cache/elasticsearch.py:88
 msgid "Elasticsearch service is now disabled."
-msgstr ""
+msgstr "Il servizio Elastichsearch è stato abilitato."
 
 #: modules/cache/elasticsearch.py:103
 msgid "Elasticsearch"
@@ -722,19 +722,19 @@ msgstr ""
 
 #: modules/cache/memcached.py:55 modules/cache/memcached.py:61
 msgid "Memcached installed successfully."
-msgstr ""
+msgstr "Memcached installato correttamente."
 
 #: modules/cache/memcached.py:64 modules/cache/memcached.py:68
 msgid "Error: Memcached installation failed."
-msgstr ""
+msgstr "Errore: Memcached installazione fallita."
 
 #: modules/cache/memcached.py:82
 msgid "Memcached service is now enabled."
-msgstr ""
+msgstr "Il servizio Memcached è stato abilitato."
 
 #: modules/cache/memcached.py:88
 msgid "Memcached service is now disabled."
-msgstr ""
+msgstr "il servizio Memcached è stato disabilitato."
 
 #: modules/cache/memcached.py:97
 msgid ""
@@ -744,7 +744,7 @@ msgstr ""
 
 #: modules/cache/memcached.py:100 modules/cache/redis.py:106
 msgid "Memory limit is invalid!"
-msgstr ""
+msgstr "Limite di memoria non valido!"
 
 #: modules/cache/memcached.py:122 templates/dashboard/dashboard.html:305
 #: templates/partials/sidebar.html:262
@@ -754,25 +754,27 @@ msgstr ""
 
 #: modules/cache/redis.py:61 modules/cache/redis.py:67
 msgid "REDIS installed successfully."
-msgstr ""
+msgstr "REDIS instalalto correttamente."
 
 #: modules/cache/redis.py:70 modules/cache/redis.py:74
 msgid "Error: REDIS installation failed."
-msgstr ""
+msgstr "Errore: REDIS installazione fallita."
 
 #: modules/cache/redis.py:86
 msgid "REDIS service is now enabled."
-msgstr ""
+msgstr "Il servizio REDIS è stato abilitato"
 
 #: modules/cache/redis.py:92
 msgid "REDIS service is now disabled."
-msgstr ""
+msgstr "Il servizio REDIS è stato disabilitato."
 
 #: modules/cache/redis.py:103
 msgid ""
 "Memory limit for REDIS service successfully changed and service restarted"
 " to apply new limits."
 msgstr ""
+"Il limite di memoria per il servizio REDIS è stato modificato e il servizio"
+" è stato riavviato."
 
 #: modules/cache/redis.py:132 templates/dashboard/dashboard.html:297
 #: templates/partials/sidebar.html:200
@@ -782,11 +784,11 @@ msgstr ""
 
 #: modules/core/search.py:35 modules/core/search.py:72
 msgid "Invalid search query"
-msgstr ""
+msgstr "Query di ricerca non valida"
 
 #: modules/core/search.py:125
 msgid "Error loading JSON data"
-msgstr ""
+msgstr "Errore nel caricanmeto dei dati JSON"
 
 #: modules/json/databases_size_info.py:37
 msgid "Invalid unit parameter. Use \"bytes\", \"kb\", \"mb\", or \"gb\"."
