@@ -1304,39 +1304,39 @@ msgstr ""
 
 #: templates/cronjobs.html:294
 msgid "Hour:"
-msgstr ""
+msgstr "Orer:"
 
 #: templates/cronjobs.html:301
 msgid "Every Hour"
-msgstr ""
+msgstr "Ogni Ora"
 
 #: templates/cronjobs.html:302
 msgid "Every Other Hour"
-msgstr ""
+msgstr "Ogni Altra Ora"
 
 #: templates/cronjobs.html:303
 msgid "Every Third Hour"
-msgstr ""
+msgstr "Ogni Tre Ore"
 
 #: templates/cronjobs.html:304
 msgid "Every Fourth Hour"
-msgstr ""
+msgstr "Ogni Quattro Ore"
 
 #: templates/cronjobs.html:305
 msgid "Every Sixth Hour"
-msgstr ""
+msgstr "Ogni Sei Ore"
 
 #: templates/cronjobs.html:306
 msgid "Every Twelve Hours"
-msgstr ""
+msgstr "Ogni Dodici Ore"
 
 #: templates/cronjobs.html:307
 msgid "-- Hours --"
-msgstr ""
+msgstr "-- Ore --"
 
 #: templates/cronjobs.html:308
 msgid "a.m.Midnight"
-msgstr ""
+msgstr "Mezzanotte"
 
 #: templates/cronjobs.html:309 templates/cronjobs.html:310
 #: templates/cronjobs.html:311 templates/cronjobs.html:312
@@ -1362,19 +1362,19 @@ msgstr ""
 
 #: templates/cronjobs.html:339
 msgid "Day:"
-msgstr ""
+msgstr "Giorno:"
 
 #: templates/cronjobs.html:347 templates/cronjobs.html:470
 msgid "Common Settings"
-msgstr ""
+msgstr "Impostazioni Comuni"
 
 #: templates/cronjobs.html:351
 msgid "Every Day"
-msgstr ""
+msgstr "Ogni giorno"
 
 #: templates/cronjobs.html:355
 msgid "Every Other Day"
-msgstr ""
+msgstr "Ogni Altro Giorno"
 
 #: templates/cronjobs.html:363
 msgid "Days"
@@ -1382,182 +1382,182 @@ msgstr ""
 
 #: templates/cronjobs.html:464
 msgid "Month:"
-msgstr ""
+msgstr "Mese:"
 
 #: templates/cronjobs.html:473
 msgid "Every Month"
-msgstr ""
+msgstr "Ogni Mese:"
 
 #: templates/cronjobs.html:477
 msgid "Every Other Month"
-msgstr ""
+msgstr "Ogni Altro Mese"
 
 #: templates/cronjobs.html:481
 msgid "Every Third Month"
-msgstr ""
+msgstr "Ogni Terzo Mese"
 
 #: templates/cronjobs.html:485
 msgid "Every Six Months"
-msgstr ""
+msgstr "Ogni Sei mesi"
 
 #: templates/cronjobs.html:489
 msgid "Months"
-msgstr ""
+msgstr "Mesi"
 
 #: templates/cronjobs.html:492
 msgid "January"
-msgstr ""
+msgstr "Gennaio"
 
 #: templates/cronjobs.html:496
 msgid "February"
-msgstr ""
+msgstr "Febbraio"
 
 #: templates/cronjobs.html:500
 msgid "March"
-msgstr ""
+msgstr "Marzo"
 
 #: templates/cronjobs.html:504
 msgid "April"
-msgstr ""
+msgstr "Aprile"
 
 #: templates/cronjobs.html:508
 msgid "May"
-msgstr ""
+msgstr "Maggio"
 
 #: templates/cronjobs.html:512
 msgid "June"
-msgstr ""
+msgstr "Giugno"
 
 #: templates/cronjobs.html:516
 msgid "July"
-msgstr ""
+msgstr "Luglio"
 
 #: templates/cronjobs.html:520
 msgid "August"
-msgstr ""
+msgstr "Agosto"
 
 #: templates/cronjobs.html:524
 msgid "September"
-msgstr ""
+msgstr "Settembre"
 
 #: templates/cronjobs.html:528
 msgid "October"
-msgstr ""
+msgstr "Ottobre"
 
 #: templates/cronjobs.html:532
 msgid "November"
-msgstr ""
+msgstr "Novembre"
 
 #: templates/cronjobs.html:536
 msgid "December"
-msgstr ""
+msgstr "Dicembre"
 
 #: templates/cronjobs.html:545
 msgid "Weekday:"
-msgstr ""
+msgstr "Giorno Feriale"
 
 #: templates/cronjobs.html:552
 msgid "Every Day (*)"
-msgstr ""
+msgstr "Ogni Giorno"
 
 #: templates/cronjobs.html:553
 msgid "Every Weekday"
-msgstr ""
+msgstr "Ogni giorno feriale"
 
 #: templates/cronjobs.html:554
 msgid "Every Weekend Day"
-msgstr ""
+msgstr "Ogni Fine Settimana"
 
 #: templates/cronjobs.html:555
 msgid "Every Monday, Wednesday, and Friday"
-msgstr ""
+msgstr "Ogni Lunedì, Mercoledì e Venerdì"
 
 #: templates/cronjobs.html:556
 msgid "Every Tuesday and Thursday"
-msgstr ""
+msgstr "Ogni Martedì e Giovedì"
 
 #: templates/cronjobs.html:557
 msgid " -- Weekdays --"
-msgstr ""
+msgstr "-- Giorni Feriali --"
 
 #: templates/cronjobs.html:558
 msgid "Sunday"
-msgstr ""
+msgstr "Domenica"
 
 #: templates/cronjobs.html:559
 msgid "Monday"
-msgstr ""
+msgstr "Lunedì"
 
 #: templates/cronjobs.html:560
 msgid "Tuesday"
-msgstr ""
+msgstr "Martedì"
 
 #: templates/cronjobs.html:561
 msgid "Wednesday"
-msgstr ""
+msgstr "Mercoledi"
 
 #: templates/cronjobs.html:562
 msgid "Thursday "
-msgstr ""
+msgstr "Giovedì"
 
 #: templates/cronjobs.html:563
 msgid "Friday"
-msgstr ""
+msgstr "Venerdì"
 
 #: templates/cronjobs.html:564
 msgid "Saturday"
-msgstr ""
+msgstr "Sabato"
 
 #: templates/cronjobs.html:569
 msgid "Command:"
-msgstr ""
+msgstr "Comando:"
 
 #: templates/cronjobs.html:574
 msgid "Schedule CronJob"
-msgstr ""
+msgstr "Pianifica CronJob"
 
 #: templates/cronjobs.html:681
 msgid "Please fill in all fields before submitting."
-msgstr ""
+msgstr "Si prega di compilare tutti i campi prima di inviare."
 
 #: templates/cronjobs.html:710
 msgid "Minute"
-msgstr ""
+msgstr "Minuto"
 
 #: templates/cronjobs.html:711
 msgid "Hour"
-msgstr ""
+msgstr "Ora"
 
 #: templates/cronjobs.html:712
 msgid "Day"
-msgstr ""
+msgstr "Giorno"
 
 #: templates/cronjobs.html:713
 msgid "Month"
-msgstr ""
+msgstr "Mese"
 
 #: templates/cronjobs.html:714
 msgid "Weekday"
-msgstr ""
+msgstr "Giorno Feriale"
 
 #: templates/cronjobs.html:715 templates/processlist.html:17
 msgid "Command"
-msgstr ""
+msgstr "Comando"
 
 #: templates/cronjobs.html:733 templates/filemanager.html:329
 msgid "Edit"
-msgstr ""
+msgstr "Modifica"
 
 #: templates/cronjobs.html:734 templates/domains/domains.html:454
 #: templates/filemanager.html:314 templates/filemanager.html:2001
 #: templates/filemanager.html:2028 templates/pm2.html:244
 #: templates/ssl.html:194
 msgid "Delete"
-msgstr ""
+msgstr "Cancella"
 
 #: templates/cronjobs.html:751
 msgid "Edit Cron Job"
-msgstr ""
+msgstr "Modifica Cron Job"
 
 #: templates/cronjobs.html:752 templates/cronjobs.html:759
 #: templates/databases.html:300 templates/domains/domains.html:443
@@ -1565,47 +1565,47 @@ msgstr ""
 #: templates/ftp.html:53 templates/ftp.html:94 templates/ftp.html:107
 #: templates/php.html:22 templates/ssl.html:66 templates/websites.html:2154
 msgid "Close"
-msgstr ""
+msgstr "Chiudi"
 
 #: templates/cronjobs.html:760
 msgid "Save changes"
-msgstr ""
+msgstr "Salva Cambiamenti"
 
 #: templates/cronjobs.html:771 templates/filemanager.html:1991
 msgid "Confirm Deletion"
-msgstr ""
+msgstr "Confermare Cancellazione"
 
 #: templates/cronjobs.html:775
 msgid "Are you sure you want to delete the following cron job?"
-msgstr ""
+msgstr "Sei sicuro di voler cancelalre il cron job selezionato?"
 
 #: templates/cronjobs.html:780
 msgid "Confirm Delete"
-msgstr ""
+msgstr "Conferma Cancellazione"
 
 #: templates/cronjobs.html:823
 msgid "Error editing cron job."
-msgstr ""
+msgstr "Errore durante la modifica del cron job."
 
 #: templates/cronjobs.html:827
 msgid "AJAX error while editing cron job."
-msgstr ""
+msgstr "Errore AJAX durante la modifica del cron job."
 
 #: templates/cronjobs.html:849
 msgid "Error deleting cron job."
-msgstr ""
+msgstr "Errore nella cancellazione del cron job."
 
 #: templates/cronjobs.html:853
 msgid "AJAX error while deleting cron job."
-msgstr ""
+msgstr "Errore AJAX durante la cancellazione del cron job."
 
 #: templates/cronjobs.html:866
 msgid "No cronjobs."
-msgstr ""
+msgstr "Nessun cronjob."
 
 #: templates/cronjobs.html:876
 msgid "Create CronJob"
-msgstr ""
+msgstr "Crea CronJob"
 
 #: templates/databases.html:26 templates/databases.html:375
 msgid "Database Wizard"
@@ -1614,16 +1614,16 @@ msgstr ""
 #: templates/databases.html:33 templates/databases.html:196
 #: templates/databases.html:390
 msgid "Database Name"
-msgstr ""
+msgstr "Nome Database"
 
 #: templates/databases.html:38
 msgid "Random Database Name"
-msgstr ""
+msgstr "Nome Database Casuale"
 
 #: templates/databases.html:41 templates/databases.html:53
 #: templates/databases.html:63
 msgid "Generate Random"
-msgstr ""
+msgstr "Genera Casuale"
 
 #: templates/databases.html:45 templates/databases.html:225
 #: templates/databases.html:268 templates/databases.html:346
@@ -1633,7 +1633,7 @@ msgstr ""
 
 #: templates/databases.html:50
 msgid "Random Username"
-msgstr ""
+msgstr "Username Casuale"
 
 #: templates/databases.html:58 templates/databases.html:352
 #: templates/ftp.html:73 templates/user/login.html:41
@@ -1642,11 +1642,11 @@ msgstr ""
 
 #: templates/databases.html:60
 msgid "Random Password"
-msgstr ""
+msgstr "Password Casuale"
 
 #: templates/databases.html:69
 msgid "Create Database, User, and Grant All Privileges"
-msgstr ""
+msgstr "Crea il Databse, Utente e concedi tutti i Privilegi"
 
 #: templates/databases.html:81
 msgid "Success!"
@@ -1654,7 +1654,7 @@ msgstr ""
 
 #: templates/databases.html:86
 msgid "Database Name:"
-msgstr ""
+msgstr "Nome Database:"
 
 #: templates/databases.html:87 templates/databases.html:341
 #: templates/ssh.html:136 templates/user/account.html:53
@@ -1669,24 +1669,24 @@ msgstr ""
 
 #: templates/databases.html:187
 msgid "Create Database"
-msgstr ""
+msgstr "Crea Database"
 
 #: templates/databases.html:201 templates/databases.html:359
 #: templates/pm2.html:182
 msgid "Create"
-msgstr ""
+msgstr "Crea"
 
 #: templates/databases.html:215
 msgid "Assign user to existing MySQL database"
-msgstr ""
+msgstr "Assegna utente ad un database MySQL esistente"
 
 #: templates/databases.html:222 templates/databases.html:264
 msgid "Select user:"
-msgstr ""
+msgstr "Seleziona utente:"
 
 #: templates/databases.html:229 templates/databases.html:272
 msgid "Select database:"
-msgstr ""
+msgstr "Seleziona Database"
 
 #: templates/databases.html:232 templates/databases.html:348
 #: templates/processlist.html:15
@@ -1700,44 +1700,44 @@ msgstr ""
 
 #: templates/databases.html:242 templates/databases.html:410
 msgid "Assign"
-msgstr ""
+msgstr "Assegna"
 
 #: templates/databases.html:255
 msgid "Remove user access from database"
-msgstr ""
+msgstr "Rimuove l'utente dall'accesso al database"
 
 #: templates/databases.html:285
 msgid "Remove Privileges"
-msgstr ""
+msgstr "Rimuovi Privilegi"
 
 #: templates/databases.html:299 templates/databases.html:318
 #: templates/ssh.html:176
 msgid "Change Password"
-msgstr ""
+msgstr "Cambia Password"
 
 #: templates/databases.html:306
 msgid "Change password for MySQL database user"
-msgstr ""
+msgstr "Cambia password per l'utente del database MySQL"
 
 #: templates/databases.html:307 templates/databases.html:308
 msgid "Database User"
-msgstr ""
+msgstr "Utente Database"
 
 #: templates/databases.html:311 templates/databases.html:312
 msgid "New Password"
-msgstr ""
+msgstr "Nuova Password"
 
 #: templates/databases.html:332
 msgid "Create new MySQL user"
-msgstr ""
+msgstr "Crea nuovo utente MySQL"
 
 #: templates/databases.html:371
 msgid "New DB"
-msgstr ""
+msgstr "Nuovo DB"
 
 #: templates/databases.html:371
 msgid "New Database"
-msgstr ""
+msgstr "Nuovo Database"
 
 #: templates/databases.html:375
 msgid "Wizard"
@@ -1751,41 +1751,46 @@ msgid ""
 " new databases and efficiently manage existing ones to organize and store"
 " your website's data effectively."
 msgstr ""
+"I database MySQL vengono utilizzati per archiviare e gestire i dati del tuo sito web, come"
+" contenuti, informazioni sull'utente e dettagli del prodotto, rendendolo accessibile e"
+" organizzato per le tue applicazioni web. In questa pagina puoi creare facilmente"
+" nuovi database e gestire in modo efficiente quelli esistenti per organizzare e archiviare"
+" i dati del tuo sito web in modo efficace."
 
 #: templates/databases.html:391 templates/filemanager.html:364
 msgid "Size"
-msgstr ""
+msgstr "Dimensione"
 
 #: templates/databases.html:392
 msgid "Assigned Users"
-msgstr ""
+msgstr "Utenti Assegnati"
 
 #: templates/databases.html:405
 msgid "Users"
-msgstr ""
+msgstr "Utenti"
 
 #: templates/databases.html:408 templates/partials/sidebar.html:39
 #: templates/php.html:47 templates/pm2.html:315
 msgid "New"
-msgstr ""
+msgstr "Nuovo"
 
 #: templates/databases.html:408 templates/databases.html:430
 #: templates/processlist.html:14
 msgid "User"
-msgstr ""
+msgstr "Utente"
 
 #: templates/databases.html:410
 msgid "to Database"
-msgstr ""
+msgstr "al Database"
 
 #: templates/databases.html:413 templates/websites.html:2183
 #: templates/wordpress.html:501
 msgid "Remove"
-msgstr ""
+msgstr "Rimuovi"
 
 #: templates/databases.html:413
 msgid "from database"
-msgstr ""
+msgstr "dal Database"
 
 #: templates/databases.html:426
 msgid ""
@@ -1795,37 +1800,44 @@ msgid ""
 "accounts with specific permissions, ensuring secure access to your "
 "databases."
 msgstr ""
+"Gli utenti MySQL sono essenziali per controllare chi può accedere e interagire "
+"con i vostri database, garantendo la sicurezza dei dati e l'accesso controllato alle vostre"
+" informazioni del sito web. Qui puoi creare e gestire l'utente MySQL "
+"con autorizzazioni specifiche, garantendo un accesso sicuro al tuo "
+"database."
 
 #: templates/disk_usage.html:8
 msgid ""
 "Disk usage is the amount of space that is used by the content of your "
 "sites, this includes databases, files, videos, images, emails and pages."
 msgstr ""
+"L'utilizzo del disco è la quantità di spazio utilizzata dal contenuto del tuo "
+"sito, inclusi database, file, video, immagini, e-mail e pagine."
 
 #: templates/disk_usage.html:13
 msgid "Disk usage per directory"
-msgstr ""
+msgstr "Utilizzo Disco per cartella "
 
 #: templates/disk_usage.html:29 templates/inodes.html:30
 msgid "Browse Directories"
-msgstr ""
+msgstr "Sfoglia Cartelle"
 
 #: templates/disk_usage.html:46 templates/inodes.html:48
 #: templates/inodes.html:132
 msgid "Up One Level"
-msgstr ""
+msgstr "Su di un Livello"
 
 #: templates/disk_usage.html:73
 msgid "Calculating disk usage for "
-msgstr ""
+msgstr "Calcolo dell'utilizzo disco per "
 
 #: templates/disk_usage.html:200
 msgid "Calculating disk usage for parent directory.."
-msgstr ""
+msgstr "Calcolo dell'utilizzo del disco per la directory principale.."
 
 #: templates/edit_file.html:11
 msgid "The specified file does not exist."
-msgstr ""
+msgstr "Il file specificato non esiste"
 
 #: templates/edit_file.html:87
 msgid "Show in folder"
