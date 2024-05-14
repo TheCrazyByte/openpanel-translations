@@ -1848,70 +1848,74 @@ msgid ""
 "Are you sure you want to close the file editor without saving your "
 "changes?"
 msgstr ""
+"Sei sicuro di voler chiudere il file editor senza salvare i cambiamenti?"
+
 
 #: templates/edit_mysql_config.html:21
 msgid "Saving and restarting MySQL to apply changes..."
-msgstr ""
+msgstr "Salvataggio e riavvio di MySQL per applicare le modifiche..."
 
 #: templates/edit_mysql_config.html:82
 msgid ""
 "This tool allows you to make changes to your MySQL configuration. "
 "Modifications made here will prompt a MySQL service restart."
 msgstr ""
+"Questo strumento ti consente di apportare modifiche alla configurazione di MySQL. "
+"Le modifiche apportate qui richiederanno il riavvio del servizio MySQL."
 
 #: templates/edit_mysql_config.html:88
 msgid "MySQL Configuration Settings"
-msgstr ""
+msgstr "Impostazioni di configurazione MySQL"
 
 #: templates/edit_mysql_config.html:129
 msgid "Recommended values:"
-msgstr ""
+msgstr "Valori Raccomandati"
 
 #: templates/edit_mysql_config.html:179
 msgid "MySQL status:"
-msgstr ""
+msgstr "Stato MySQL"
 
 #: templates/edit_mysql_config.html:179 templates/remote_mysql.html:174
 #: templates/ssh.html:197
 msgid "Enabled"
-msgstr ""
+msgstr "Abilitato"
 
 #: templates/edit_mysql_config.html:179 templates/remote_mysql.html:108
 #: templates/remote_mysql.html:174 templates/ssh.html:197
 msgid "Disabled"
-msgstr ""
+msgstr "Disabilitato"
 
 #: templates/elasticsearch.html:20
 msgid "Enabling Elasticsearch service.."
-msgstr ""
+msgstr "Abilitazione del servizio Elasticsearch.."
 
 #: templates/elasticsearch.html:23
 msgid "Installing Elasticsearch service.. Please wait"
-msgstr ""
+msgstr "Installando il servizio Elasticsearch.. Attendi"
 
 #: templates/elasticsearch.html:26
 msgid "Disabling Elasticsearch service.."
-msgstr ""
+msgstr "Disabilitando il servizio Elasticsearch.."
 
 #: templates/elasticsearch.html:124 templates/memcached.html:142
 #: templates/redis.html:142
 msgid "Connection Info"
-msgstr ""
+msgstr "Informazioni sulla Connessione"
 
 #: templates/elasticsearch.html:130 templates/memcached.html:148
 #: templates/redis.html:148 templates/remote_mysql.html:104
 #: templates/ssh.html:197
 msgid "status:"
-msgstr ""
+msgstr "stato:"
 
 #: templates/elasticsearch.html:131 templates/memcached.html:149
 #: templates/redis.html:149
 msgid "Active"
-msgstr ""
+msgstr "Attivo"
 
 #: templates/elasticsearch.html:139
 msgid "Elasticsearch server:"
-msgstr ""
+msgstr "Server Elasticsearch"
 
 #: templates/elasticsearch.html:141 templates/memcached.html:159
 #: templates/redis.html:159
@@ -1921,63 +1925,65 @@ msgstr ""
 #: templates/elasticsearch.html:149 templates/memcached.html:167
 #: templates/redis.html:167
 msgid "*Access to the servis is NOT available from other servers."
-msgstr ""
+msgstr "*L'accesso al servizio NON e disponibile da altri server."
 
 #: templates/elasticsearch.html:154
 msgid "View Elasticsearch service Log"
-msgstr ""
+msgstr "Visualizza il registro del servizio Elasticsearch"
 
 #: templates/elasticsearch.html:161
 msgid "Elasticsearch Settings"
-msgstr ""
+msgstr "Impostazioni di Elasticsearch"
 
 #: templates/elasticsearch.html:181
 msgid "Elasticsearch service logs"
-msgstr ""
+msgstr "Log del servizio Elasticsearch"
 
 #: templates/elasticsearch.html:194
 msgid "Elasticsearch is not currently installed."
-msgstr ""
+msgstr "Elasticsearch non è attualmente installato."
 
 #: templates/elasticsearch.html:195
 msgid "To install Elasticsearch click on the button bellow."
-msgstr ""
+msgstr "Per installare Elasticsearch fare clic sul pulsante qui sotto."
 
 #: templates/elasticsearch.html:198
 msgid "INSTALL ELASTICSEARCH"
-msgstr ""
+msgstr "INSTALLA ELASTICSEARCH"
 
 #: templates/elasticsearch.html:204
 msgid "Elasticsearch is currently disabled."
-msgstr ""
+msgstr "Elastichsearch è attualmente disabilitato"
 
 #: templates/elasticsearch.html:205
 msgid "To enable Elasticsearch click on the button bellow."
-msgstr ""
+msgstr "Per abilitare Elasticsearch fare clic sul pulsante qui sotto."
 
 #: templates/elasticsearch.html:208
 msgid "START ELASTICSEARCH"
-msgstr ""
+msgstr "AVVIA ELASTICSEARCH"
 
 #: templates/elasticsearch.html:215
 msgid "Elasticsearch service status is unknown."
-msgstr ""
+msgstr "Lo stato del servizio Elasticsearch è sconosciuto."
 
 #: templates/elasticsearch.html:216
 msgid ""
 "Unable to determinate current elasticsearch servise status, try "
 "Start&Stop actions."
 msgstr ""
+"Impossibile determinare lo stato attuale del servizio elasticsearch, provare a "
+"Riavviare il servizio"
 
 #: templates/elasticsearch.html:216 templates/memcached.html:253
 #: templates/redis.html:254
 msgid "If the issue persists please contact support."
-msgstr ""
+msgstr "Se il problema persiste contattare il supporto"
 
 #: templates/elasticsearch.html:219 templates/memcached.html:256
 #: templates/redis.html:257
 msgid "START"
-msgstr ""
+msgstr "AVVIA"
 
 #: templates/elasticsearch.html:223 templates/memcached.html:260
 #: templates/redis.html:261
@@ -1986,35 +1992,35 @@ msgstr ""
 
 #: templates/elasticsearch.html:272 templates/elasticsearch.html:287
 msgid "Disable Elasticsearch"
-msgstr ""
+msgstr "Disabilita Elasticsearch"
 
 #: templates/elasticsearch.html:277 templates/elasticsearch.html:291
 msgid "Enable Elasticsearch"
-msgstr ""
+msgstr "Abilita Elasticsearch"
 
 #: templates/elasticsearch.html:282
 msgid "Install Elasticsearch"
-msgstr ""
+msgstr "Installa Elasticsearch"
 
 #: templates/filemanager.html:285
 msgid "No items found."
-msgstr ""
+msgstr "Nessun elemento trovato."
 
 #: templates/filemanager.html:286
 msgid "Start creating new folders or uploading a new file!"
-msgstr ""
+msgstr "Inizia a creare nuove cartelle o caricando un nuovo file!  "
 
 #: templates/filemanager.html:297
 msgid "Select all"
-msgstr ""
+msgstr "Seleziona tutto"
 
 #: templates/filemanager.html:304 templates/filemanager.html:2064
 msgid "Copy"
-msgstr ""
+msgstr "Copia"
 
 #: templates/filemanager.html:309 templates/filemanager.html:2103
 msgid "Move"
-msgstr ""
+msgstr "Muovi"
 
 #: templates/filemanager.html:319
 msgid "Download"
@@ -2022,23 +2028,23 @@ msgstr ""
 
 #: templates/filemanager.html:324
 msgid "View"
-msgstr ""
+msgstr "Visualizza"
 
 #: templates/filemanager.html:334 templates/filemanager.html:1981
 msgid "Rename"
-msgstr ""
+msgstr "Rinomina"
 
 #: templates/filemanager.html:339 templates/filemanager.html:366
 msgid "Permissions"
-msgstr ""
+msgstr "Permessi"
 
 #: templates/filemanager.html:344 templates/filemanager.html:1849
 msgid "Compress"
-msgstr ""
+msgstr "Comprimi"
 
 #: templates/filemanager.html:349
 msgid "Extract"
-msgstr ""
+msgstr "Estrai"
 
 #: templates/domains/edit_dns_zone.html:114
 #: templates/domains/edit_dns_zone.html:125
@@ -2046,218 +2052,220 @@ msgstr ""
 #: templates/domains/edit_dns_zone.html:252 templates/filemanager.html:363
 #: templates/ssl.html:126
 msgid "Name"
-msgstr ""
+msgstr "Nome"
 
 #: templates/filemanager.html:365
 msgid "Last Modified"
-msgstr ""
+msgstr "Ultima Modifica"
 
 #: templates/filemanager.html:365 templates/user/history_usage.html:69
 msgid "Date"
-msgstr ""
+msgstr "Data"
 
 #: templates/filemanager.html:395
 msgid "Calculate"
-msgstr ""
+msgstr "Calcolando"
 
 #: templates/filemanager.html:1191
 msgid "Change permissions for"
-msgstr ""
+msgstr "Cambia permessi per"
 
 #: templates/filemanager.html:1203
 msgid "Please enter a 3-digit numeric value for permissions."
-msgstr ""
+msgstr "Inserisci un valore numerico di 3 cifre per le autorizzazioni."
 
 #: templates/filemanager.html:1532
 msgid ""
 "Warning: Deleting a directory will remove all its subdirectories and "
 "files."
 msgstr ""
+"Attenzione: l'eliminazione di una directory rimuoverà tutte le relative sottodirectory e "
+"File."
 
 #: templates/filemanager.html:1803
 msgid "Extract File"
-msgstr ""
+msgstr "Estrai File"
 
 #: templates/filemanager.html:1807
 msgid "Extract the following file:"
-msgstr ""
+msgstr "Estrai i seguenti file:"
 
 #: templates/filemanager.html:1809
 msgid "Please enter extraction path:"
-msgstr ""
+msgstr "Inserisci il percorso di estrazione"
 
 #: templates/domains/edit_dns_zone.html:412 templates/filemanager.html:1819
 #: templates/user/twofa_settings.html:110
 msgid "Confirm"
-msgstr ""
+msgstr "Conferma"
 
 #: templates/filemanager.html:1829
 msgid "Compress Multiple Items"
-msgstr ""
+msgstr "Comprimi più elementi "
 
 #: templates/filemanager.html:1833
 msgid "Confirm the compression of the following items:"
-msgstr ""
+msgstr "Conferma la compressione dei seguenti elementi:"
 
 #: templates/filemanager.html:1835
 msgid "Archive Name"
-msgstr ""
+msgstr "Nome Archivio"
 
 #: templates/filemanager.html:1859
 msgid "Set permissions"
-msgstr ""
+msgstr "Imposta le autorizzazioni"
 
 #: templates/filemanager.html:1873 templates/filemanager.html:1886
 #: templates/filemanager.html:1899
 msgid "Read"
-msgstr ""
+msgstr "Leggi"
 
 #: templates/filemanager.html:1876 templates/filemanager.html:1889
 #: templates/filemanager.html:1902
 msgid "Write"
-msgstr ""
+msgstr "Scrivi"
 
 #: templates/filemanager.html:1879 templates/filemanager.html:1892
 #: templates/filemanager.html:1905
 msgid "Execute"
-msgstr ""
+msgstr "Esegui"
 
 #: templates/filemanager.html:1913
 msgid "Enter new Permissions for item"
-msgstr ""
+msgstr "Inserisci nuove autorizzazioni per l'elemento"
 
 #: templates/filemanager.html:1970
 msgid "Rename Item"
-msgstr ""
+msgstr "Rinomina Elemento"
 
 #: templates/filemanager.html:1974
 msgid "Enter the new file name to rename the item:"
-msgstr ""
+msgstr "Immettere il nuovo nome file per rinominare l'elemento:"
 
 #: templates/filemanager.html:1976
 msgid "New Name"
-msgstr ""
+msgstr "Nuovo Nome"
 
 #: templates/filemanager.html:1977
 msgid "New file/folder name"
-msgstr ""
+msgstr "Nuovo nome file/cartella"
 
 #: templates/filemanager.html:1995
 msgid "Are you sure you want to delete the following"
-msgstr ""
+msgstr "Sei sicuro di voler eliminare quanto segue"
 
 #: templates/filemanager.html:2011
 msgid "Delete Items"
-msgstr ""
+msgstr "Cancella elementi"
 
 #: templates/filemanager.html:2015
 msgid "Confirm the deleting of the following items:"
-msgstr ""
+msgstr "Confermi la cancellazione dei seguenti elementi:"
 
 #: templates/filemanager.html:2023
 msgid "Deleting..."
-msgstr ""
+msgstr "Cancellando.."
 
 #: templates/filemanager.html:2038
 msgid "Copy items"
-msgstr ""
+msgstr "Copia elementi"
 
 #: templates/filemanager.html:2042
 msgid "Confirm the copy of the following items:"
-msgstr ""
+msgstr "Conferma la copia dei seguenti elementi:"
 
 #: templates/filemanager.html:2044 templates/filemanager.html:2082
 msgid "Destination path"
-msgstr ""
+msgstr "Percorso di destinazione"
 
 #: templates/filemanager.html:2058
 msgid "Copying..."
-msgstr ""
+msgstr "Copiando.."
 
 #: templates/filemanager.html:2075
 msgid "Move items"
-msgstr ""
+msgstr "Muovi elementi"
 
 #: templates/filemanager.html:2080
 msgid "Confirm the moving of the following items:"
-msgstr ""
+msgstr "Conferma lo spostamento dei seguenti elementi:"
 
 #: templates/filemanager.html:2096
 msgid "Moving..."
-msgstr ""
+msgstr "Muovendo.."
 
 #: templates/filemanager.html:2113
 msgid "Create New File"
-msgstr ""
+msgstr "Crea Nuovo File"
 
 #: templates/filemanager.html:2117
 msgid "File Name"
-msgstr ""
+msgstr "Nome File"
 
 #: templates/filemanager.html:2122
 msgid "Create File"
-msgstr ""
+msgstr "Crea File"
 
 #: templates/filemanager.html:2125
 msgid "New file will be created in:"
-msgstr ""
+msgstr "Il nuovo file verrà creato in:"
 
 #: templates/filemanager.html:2136
 msgid "Create New Folder"
-msgstr ""
+msgstr "Crea Nuova Cartella"
 
 #: templates/filemanager.html:2141
 msgid "Folder Name"
-msgstr ""
+msgstr "Nome Cartella"
 
 #: templates/filemanager.html:2145
 msgid "Create Folder"
-msgstr ""
+msgstr "Crea Cartella"
 
 #: templates/filemanager.html:2149
 msgid "New folder be created in:"
-msgstr ""
+msgstr "La nuova cartella verrà creata in:"
 
 #: templates/filemanager.html:2179
 msgid "Uploading..."
-msgstr ""
+msgstr "Caricamento.."
 
 #: templates/fix_permissions.html:4
 msgid "Fix and reset permissions for files and folders."
-msgstr ""
+msgstr "Ripara e resetta i permessi per file e cartelle"
 
 #: templates/fix_permissions.html:8 templates/malware_scanner.html:12
 msgid "Choose a directory"
-msgstr ""
+msgstr "Scegli una cartella"
 
 #: templates/fix_permissions.html:22
 msgid "Working..."
-msgstr ""
+msgstr "Lavorando.."
 
 #: templates/fix_permissions.html:30
 msgid "Permissions are fixed!"
-msgstr ""
+msgstr "I permessi sono stati riaparati!"
 
 #: templates/fix_permissions.html:61 templates/malware_scanner.html:102
 #: templates/process_manager.html:85
 msgid "Network response was not ok"
-msgstr ""
+msgstr "La risposta della rete non è stata ok"
 
 #: templates/fix_permissions.html:77
 msgid "Fixing permissions failed"
-msgstr ""
+msgstr "Riaparazione dei permessi fallita"
 
 #: templates/fix_permissions.html:84
 msgid "Complete"
-msgstr ""
+msgstr "Completato"
 
 #: templates/ftp.html:28
 msgid "Use your FTP account with an FTP client such as "
-msgstr ""
+msgstr "Usa il tuo account FTP con un client FTP come "
 
 #: templates/ftp.html:28
 msgid "to transfer files to and from your website."
-msgstr ""
+msgstr "per trasferire file da e verso il tuo sito web."
 
 #: templates/ftp.html:34
 msgid "Username (Login)"
@@ -2265,43 +2273,43 @@ msgstr ""
 
 #: templates/ftp.html:35
 msgid "Path"
-msgstr ""
+msgstr "Percorso"
 
 #: templates/ftp.html:52
 msgid "Add FTP Account"
-msgstr ""
+msgstr "Aggiungi account FTP"
 
 #: templates/ftp.html:77 templates/inodes.html:41
 msgid "Directory"
-msgstr ""
+msgstr "Cartella"
 
 #: templates/ftp.html:95
 msgid "Create FTP Account"
-msgstr ""
+msgstr "Crea un account FTP"
 
 #: templates/ftp.html:106
 msgid "Change FTP Password"
-msgstr ""
+msgstr "Cambia la password FTP"
 
 #: templates/ftp.html:126
 msgid "New password"
-msgstr ""
+msgstr "Nuova password"
 
 #: templates/ftp.html:133
 msgid "Change FTP password"
-msgstr ""
+msgstr "Cambia la password ftp"
 
 #: templates/ftp.html:144
 msgid "Change FTP Path"
-msgstr ""
+msgstr "Cambia il percorso FTP"
 
 #: templates/ftp.html:164
 msgid "New path"
-msgstr ""
+msgstr "Nuovo Percorso"
 
 #: templates/ftp.html:176
 msgid "Change FTP path"
-msgstr ""
+msgstr "Cambia il percorso FTP"
 
 #: templates/inodes.html:8
 msgid ""
@@ -2310,10 +2318,14 @@ msgid ""
 "and folders you have. This includes everything on your account, emails, "
 "files, folders, and anything you store on the server."
 msgstr ""
+"Un inode è una struttura dati che mantiene le informazioni su un file su "
+"il tuo account di hosting. Il numero di inode indica il numero di file "
+"e le cartelle che possiedi. Ciò include tutto ciò che è sul tuo account, email, "
+"file, cartelle e tutto ciò che archivi sul server."
 
 #: templates/inodes.html:14
 msgid "Inodes usage per directory"
-msgstr ""
+msgstr "Utilizzo Inodes per cartella"
 
 #: templates/inodes.html:42
 msgid "Inodes"
@@ -2321,19 +2333,19 @@ msgstr ""
 
 #: templates/inodes.html:76
 msgid "Calculating inodes count for"
-msgstr ""
+msgstr "Calcolando il numero di Inode per"
 
 #: templates/inodes.html:154
 msgid "Inodes Usage"
-msgstr ""
+msgstr "Utilizzo Inode"
 
 #: templates/inodes.html:171
 msgid "Calculating inodes for parent directory.."
-msgstr ""
+msgstr "Calcolo degli inode per la directory principale.."
 
 #: templates/inodes.html:186
 msgid "Failed to fetch"
-msgstr ""
+msgstr "Impossibile recuperare"
 
 #: templates/domains/domains.html:479 templates/ip_blocker.html:64
 #: templates/ssl.html:78 templates/system/modsecurity.html:64
@@ -2345,27 +2357,27 @@ msgstr ""
 #: templates/php.html:64 templates/sites.html:147 templates/ssl.html:134
 #: templates/system/modsecurity.html:113 templates/wordpress.html:453
 msgid "Domain"
-msgstr ""
+msgstr "Dominio"
 
 #: templates/ip_blocker.html:114
 msgid "Blocked IPs"
-msgstr ""
+msgstr "IP bloccati"
 
 #: templates/domains/domains.html:241 templates/domains/domains.html:266
 #: templates/ip_blocker.html:131 templates/memcached.html:207
 #: templates/redis.html:207
 msgid "Save"
-msgstr ""
+msgstr "Salva"
 
 #: templates/ip_blocker.html:149 templates/ssl.html:350
 #: templates/system/modsecurity.html:204 templates/wordpress.html:792
 msgid "No Domains"
-msgstr ""
+msgstr "Nessun Dominio"
 
 #: templates/ip_blocker.html:151 templates/ssl.html:353
 #: templates/system/modsecurity.html:206 templates/wordpress.html:795
 msgid "Add a Domain Name"
-msgstr ""
+msgstr "Aggiungi un nome di dominio"
 
 #: templates/logs.html:8
 msgid ""
