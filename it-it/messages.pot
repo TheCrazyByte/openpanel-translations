@@ -2384,6 +2384,8 @@ msgid ""
 "Several actions are carried out by OpenPanel when the server is started; "
 "you may check their status and look for any potentional issues here."
 msgstr ""
+"Molte azioni vengono eseguite da OpenPanel all'avvio del server; "
+"puoi controllare il loro stato e cercare eventuali problemi qui."
 
 #: templates/malware_scanner.html:6
 msgid ""
@@ -2392,50 +2394,54 @@ msgid ""
 "security threat, it flags the file to allow you to take the appropriate "
 "action."
 msgstr ""
+"Clam AntiVirus Scanner (ClamAV) esegue la ricerca nei tuoi "
+"file programmi dannosi. Se lo scanner identifica una potenziale "
+"minaccia alla sicurezza, contrassegna il file per consentirti di prendere le misure appropriate."
+
 
 #: templates/malware_scanner.html:21
 msgid "Start Scan"
-msgstr ""
+msgstr "Avvia Scansione"
 
 #: templates/malware_scanner.html:26
 msgid "Scanning..."
-msgstr ""
+msgstr "Scansione.."
 
 #: templates/malware_scanner.html:38
 msgid "Scan is complete!"
-msgstr ""
+msgstr "Scansione Completa!"
 
 #: templates/malware_scanner.html:44
 msgid "Scan Results"
-msgstr ""
+msgstr "Risultati Scansione"
 
 #: templates/memcached.html:19
 msgid "Enabling Memcached service.."
-msgstr ""
+msgstr "Abilitazione del servizio Memcached.."
 
 #: templates/memcached.html:22
 msgid "Installing Memcached service.. Please wait"
-msgstr ""
+msgstr "Installando il servizio Memcached.. Attendi"
 
 #: templates/memcached.html:26
 msgid "Disabling Memcached service.."
-msgstr ""
+msgstr "Disabilitando il servizio Memcached.."
 
 #: templates/memcached.html:83
 msgid "Error fetching log content."
-msgstr ""
+msgstr "Errore durante il recupero del contenuto del registro"
 
 #: templates/memcached.html:113
 msgid "Memcached is not currently installed."
-msgstr ""
+msgstr "Memcached non è attualmente installato."
 
 #: templates/memcached.html:114
 msgid "To install Memcached click on the button bellow."
-msgstr ""
+msgstr "Per installare Memcached clicca sul bottone qui sotto."
 
 #: templates/memcached.html:117
 msgid "INSTALL MEMCACHED"
-msgstr ""
+msgstr "INSTALLA MEMCACHED"
 
 #: templates/memcached.html:157
 msgid "Memcached server:"
@@ -2443,15 +2449,15 @@ msgstr ""
 
 #: templates/memcached.html:166 templates/pm2.html:130 templates/redis.html:166
 msgid "Port:"
-msgstr ""
+msgstr "Porta:"
 
 #: templates/memcached.html:172
 msgid "View Memcached service Log"
-msgstr ""
+msgstr "Guarda il log del servizio Memcached"
 
 #: templates/memcached.html:179
 msgid "Memcached Memory Allocation"
-msgstr ""
+msgstr "Memoria Allocata da Memcached"
 
 #: templates/memcached.html:187
 msgid "You can allocate RAM to Memcached service."
