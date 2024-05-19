@@ -2461,61 +2461,63 @@ msgstr "Memoria Allocata da Memcached"
 
 #: templates/memcached.html:187
 msgid "You can allocate RAM to Memcached service."
-msgstr ""
+msgstr "È possibile allocare RAM al servizio Memcached."
 
 #: templates/memcached.html:192
 msgid "Current Memory limit for Memcached service"
-msgstr ""
+msgstr "Limite di memoria corrente per il servizio Memcached"
 
 #: templates/memcached.html:200 templates/redis.html:200
 msgid "Change Memory Allocation"
-msgstr ""
+msgstr "Modifica l'allocazione della memoria"
 
 #: templates/memcached.html:224
 msgid "Memcached service logs"
-msgstr ""
+msgstr ""Registro del servizio Memcached""
 
 #: templates/memcached.html:243
 msgid "Memcached is currently disabled."
-msgstr ""
+msgstr "Memcached è attualmente disabilitato"
 
 #: templates/memcached.html:244
 msgid "To enable Memcached SERVER click on the button bellow."
-msgstr ""
+msgstr "Per Abilitare il Server Memcached cliccare sul bottone sotto."
 
 #: templates/memcached.html:247
 msgid "START Memcached"
-msgstr ""
+msgstr "AVVIA Memcached"
 
 #: templates/memcached.html:252
 msgid "Memcached service status is unknown."
-msgstr ""
+msgstr "Stato del Servizio Memcached è sconosciuto"
 
 #: templates/memcached.html:253
 msgid ""
 "Unable to determinate current Memcached servise status, try Start&Stop "
 "actions."
 msgstr ""
+"Impossibile determinare lo stato attuale del servizio Memcached, provare a riavviare il servizio"
+
 
 #: templates/memcached.html:307 templates/memcached.html:323
 msgid "Disable Memcached service"
-msgstr ""
+msgstr "Disabilita il servizio Memcached"
 
 #: templates/memcached.html:312 templates/memcached.html:327
 msgid "Enable Memcached service"
-msgstr ""
+msgstr "Abilita il servizio Memcached"
 
 #: templates/memcached.html:317
 msgid "Install Memcached"
-msgstr ""
+msgstr "Installa Memcached"
 
 #: templates/php.html:18
 msgid "SAVED"
-msgstr ""
+msgstr "SALVATO"
 
 #: templates/php.html:20
 msgid "ERROR"
-msgstr ""
+msgstr "ERRORE"
 
 #: templates/php.html:41 templates/php.html:44 templates/php.html:50
 msgid "PHP"
@@ -2523,11 +2525,11 @@ msgstr ""
 
 #: templates/php.html:41
 msgid "versions"
-msgstr ""
+msgstr "versioni"
 
 #: templates/php.html:44
 msgid "extensions"
-msgstr ""
+msgstr "estensioni"
 
 #: templates/php.html:47
 msgid "default"
@@ -2535,11 +2537,11 @@ msgstr ""
 
 #: templates/php.html:47
 msgid "Default settings"
-msgstr ""
+msgstr "Configurazione di default"
 
 #: templates/php.html:50
 msgid "options"
-msgstr ""
+msgstr "opzioni"
 
 #: templates/php.html:59
 msgid ""
@@ -2547,55 +2549,62 @@ msgid ""
 "takes 1-2 seconds to complete. Be sure to check your script and plugin "
 "requirements to know which PHP version works best for your website."
 msgstr ""
+"La modifica della versione PHP interromperà tutti i processi sul tuo sito. "
+"il completamento richiede 1-2 secondi. Assicurati di controllare i requisiti per script e plug-in "
+"per sapere quale versione di PHP funziona meglio per il tuo sito web."
 
 #: templates/php.html:65
 msgid "Current"
-msgstr ""
+msgstr "Corrente"
 
 #: templates/dashboard/dashboard.html:344 templates/php.html:65
 #: templates/php.html:108
 msgid "PHP Version"
-msgstr ""
+msgstr "Versione PHP"
 
 #: templates/php.html:66 templates/php.html:108 templates/php.html:152
 msgid "Change"
-msgstr ""
+msgstr "Cambia"
 
 #: templates/php.html:66
 msgid ">PHP version for domain"
-msgstr ""
+msgstr ">Versione PHP per dominio"
 
 #: templates/php.html:130
 msgid "Default PHP version:"
-msgstr ""
+msgstr "Versione PHP di default:"
 
 #: templates/php.html:134
 msgid ""
 "The PHP version that is used by default for newly added domains is the "
 "one that you choose here."
 msgstr ""
+"La versione PHP utilizzata per impostazione predefinita per i domini appena aggiunti è "
+"quella che scegli qui."
 
 #: templates/php.html:136
 msgid "Current default PHP version:"
-msgstr ""
+msgstr "Versione PHP di default corrente:"
 
 #: templates/php.html:140
 msgid "Change PHP Version to be used for new domains:"
-msgstr ""
+msgstr "Cambia la versione di PHP da utilizzare per i nuovi domini:"
 
 #: templates/php.html:145 templates/php.html:194 templates/php.html:316
 msgid "Select PHP Version"
-msgstr ""
+msgstr "Seleziona la versione di PHP"
 
 #: templates/php.html:173
 msgid "Install a new version"
-msgstr ""
+msgstr "Installa una nuova versione"
 
 #: templates/php.html:177
 msgid ""
 "For best performance we recommend to only install PHP versions that you "
 "will be activelly using."
 msgstr ""
+"Per prestazioni ottimali ti consigliamo di installare solo le versioni PHP "
+"che utilizzerai attivamente."
 
 #: templates/php.html:179
 msgid "Currently installed PHP versions"
@@ -2603,31 +2612,31 @@ msgstr ""
 
 #: templates/php.html:186
 msgid "Select PHP Version to Install:"
-msgstr ""
+msgstr "Seleziona la Versione di PHP da Installare:"
 
 #: templates/php.html:202 templates/wordpress.html:828
 msgid "Install"
-msgstr ""
+msgstr "Installa"
 
 #: templates/php.html:217
 msgid "PHP version installation log"
-msgstr ""
+msgstr "Registro di installazione della versione PHP"
 
 #: templates/php.html:330
 msgid "No PHP versions found."
-msgstr ""
+msgstr "Nessuna versione di PHP trovata"
 
 #: templates/php.html:335
 msgid "Error fetching PHP versions."
-msgstr ""
+msgstr "Errore durante il recupero delle versioni PHP."
 
 #: templates/php.html:445
 msgid "Edit PHP.INI"
-msgstr ""
+msgstr "Modifica PHP.INI"
 
 #: templates/php.html:449
 msgid "Setting"
-msgstr ""
+msgstr "Configurazione"
 
 #: templates/php_ini_editor.html:101
 msgid ""
@@ -2635,54 +2644,57 @@ msgid ""
 "configuration file, such as memory limits, error reporting, and extension"
 " settings."
 msgstr ""
+"PHP.INI Editor ti consente di modificare le impostazioni PHP memorizzate "
+"nel file di configurazione php.ini, come limiti di memoria, segnalazione "
+"errori e impostazioni di estensione."
 
 #: templates/php_ini_editor.html:105
 msgid "Select PHP Version:"
-msgstr ""
+msgstr "Seleziona Versione PHP:"
 
 #: templates/php_ini_editor.html:107
 msgid "Select a PHP Version to edit .ini file"
-msgstr ""
+msgstr "Seleziona una versione PHP per modificare il file .ini"
 
 #: templates/pm2.html:38
 msgid "available"
-msgstr ""
+msgstr "disponibile"
 
 #: templates/pm2.html:40
 msgid "already in use"
-msgstr ""
+msgstr "già in uso"
 
 #: templates/pm2.html:62
 msgid "file exists"
-msgstr ""
+msgstr "file esistente"
 
 #: templates/pm2.html:64
 msgid "file does not exist!"
-msgstr ""
+msgstr "il file non esiste!"
 
 #: templates/pm2.html:88
 msgid "Create a new Application"
-msgstr ""
+msgstr "Crea una nuova Applicazione"
 
 #: templates/pm2.html:89
 msgid "Run a NodeJS or Python application."
-msgstr ""
+msgstr "Lancia un NodeJS o un applicazione Python"
 
 #: templates/pm2.html:93
 msgid "Application URL:"
-msgstr ""
+msgstr "URL applicazione:"
 
 #: templates/pm2.html:101
 msgid "subfolder (optional)"
-msgstr ""
+msgstr "sottocartella (opzionale)"
 
 #: templates/pm2.html:106
 msgid "Application Startup file:"
-msgstr ""
+msgstr "File di avvio dell'applicazione:"
 
 #: templates/pm2.html:118
 msgid "Type:"
-msgstr ""
+msgstr "Tipo:"
 
 #: templates/pm2.html:120 templates/system/services_status.html:98
 msgid "NodeJS"
@@ -2698,23 +2710,23 @@ msgstr ""
 
 #: templates/pm2.html:143
 msgid "Automatically restart app on file changes"
-msgstr ""
+msgstr "Riavvia l'app quando si modifica un file"
 
 #: templates/pm2.html:147
 msgid "Enable logs:"
-msgstr ""
+msgstr "Abilita log:"
 
 #: templates/pm2.html:150
 msgid "Collect logs"
-msgstr ""
+msgstr "Raccogli log"
 
 #: templates/pm2.html:195
 msgid "Application / Domain Name."
-msgstr ""
+msgstr "Applicazione / Nome Dominio"
 
 #: templates/pm2.html:195 templates/pm2.html:315
 msgid "Application"
-msgstr ""
+msgstr "Applicazione"
 
 #: templates/pm2.html:197 templates/system/server_info.html:31
 msgid "Uptime"
@@ -2722,11 +2734,11 @@ msgstr ""
 
 #: templates/pm2.html:198
 msgid "Restarts"
-msgstr ""
+msgstr "Riavvii"
 
 #: templates/pm2.html:199
 msgid "Current status of the application process."
-msgstr ""
+msgstr "Stato corrente del processo dell'applicazione"
 
 #: templates/pm2.html:200 templates/user/stats.html:7
 msgid "CPU"
@@ -2734,13 +2746,15 @@ msgstr ""
 
 #: templates/pm2.html:201
 msgid "Memory"
-msgstr ""
+msgstr "Memoria"
 
 #: templates/pm2.html:202
 msgid ""
 "If watching is enabled, the application will automatically restart when "
 "its files are edited."
 msgstr ""
+"Se watching è abilitato, l'applicazione si riavvierà automaticamente quando "
+"i suoi file vengono modificati."
 
 #: templates/pm2.html:202
 msgid "Watching"
@@ -2750,23 +2764,23 @@ msgstr ""
 #: templates/domains/edit_dns_zone.html:259 templates/pm2.html:205
 #: templates/sites.html:151 templates/websites.html:1240
 msgid "Type"
-msgstr ""
+msgstr "Tipo"
 
 #: templates/pm2.html:206
 msgid "Port that the application is using."
-msgstr ""
+msgstr "Porta utilizzata dall'applicazione"
 
 #: templates/pm2.html:207
 msgid "Path to the application startup file (app.js)"
-msgstr ""
+msgstr "Percorso del file di avvio dell'applicazione (app.js)"
 
 #: templates/pm2.html:207
 msgid "Startup file"
-msgstr ""
+msgstr "File di avvio"
 
 #: templates/pm2.html:232
 msgid "Start"
-msgstr ""
+msgstr "Avvio"
 
 #: templates/pm2.html:236
 msgid "Stop"
@@ -2776,37 +2790,39 @@ msgstr ""
 #: templates/system/services_status.html:20
 #: templates/system/services_status.html:56
 msgid "Restart"
-msgstr ""
+msgstr "Riavvia"
 
 #: templates/pm2.html:272
 msgid "No PM2 data available."
-msgstr ""
+msgstr "Nessun dato PM2 disponibile"
 
 #: templates/pm2.html:283
 msgid "No existing Applications"
-msgstr ""
+msgstr "Nessun applicazione esistente"
 
 #: templates/pm2.html:284
 msgid ""
 "There are no existing applications. You can start a new NodeJS or Python "
 "app below."
 msgstr ""
+"Non ci sono applicazioni esistenti. Puoi avviare una nuova app NodeJS o Python "
+"qui sotto."
 
 #: templates/pm2.html:286
 msgid " Create Application"
-msgstr ""
+msgstr "Crea Applicazione"
 
 #: templates/process_manager.html:14
 msgid "TIME"
-msgstr ""
+msgstr "TEMPO"
 
 #: templates/process_manager.html:17
 msgid "ACTION"
-msgstr ""
+msgstr "AZIONE"
 
 #: templates/process_manager.html:33
 msgid "View full command"
-msgstr ""
+msgstr "Vedi comando completo"
 
 #: templates/process_manager.html:97
 msgid "Killing PID:"
@@ -2814,27 +2830,31 @@ msgstr ""
 
 #: templates/process_manager.html:97
 msgid "failed"
-msgstr ""
+msgstr "fallito"
 
 #: templates/process_manager.html:104
 msgid "terminated"
-msgstr ""
+msgstr "terminato"
 
 #: templates/processlist.html:6
 msgid ""
 "This interface lists all of the processes that currently run on any "
 "database on your server."
 msgstr ""
+"Questa interfaccia elenca tutti i processi attualmente in esecuzione su qualsiasi "
+"database sul tuo server."
 
 #: templates/processlist.html:13
 msgid ""
 "Process ID: a unique identification number assigned by Linux systems to "
 "each process and application."
 msgstr ""
+"ID processo: un numero identificativo univoco assegnato dai sistemi Linux a "
+"ogni processo e applicazione."
 
 #: templates/processlist.html:14
 msgid "Indicates the MySQL user who executed the process on the database."
-msgstr ""
+msgstr "Indica l'utente MySQL che ha eseguito il processo sul database."
 
 #: templates/processlist.html:15
 msgid ""
